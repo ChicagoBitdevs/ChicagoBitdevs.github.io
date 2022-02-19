@@ -7,47 +7,49 @@ title: Home
   <p class="Home-about">
     Welcome! We meet once a month, typically on the second Thursday.
 
-The purpose of this meeting is to discuss topics of interest to developers working on software that touches bitcoin in some way. Free and open debate is critical to the health of the bitcoin community. We insist that attendees do not record audio, video, or still images of the meetup. Furthermore, please do not attribute remarks made in the meetup to individuals.
-
-Afterparty: Join us at Hubbard Inn, 110 W. Hubbard St., after the discussion to continue chatting over drinks.
+    <br />
+    <br />
+    The purpose of this meeting is to discuss topics of interest to developers
+    working on software that touches bitcoin in some way. Free and open debate
+    is critical to the health of the bitcoin community. We insist that attendees
+    do not record audio, video, or still images of the meetup. Furthermore,
+    please do not attribute remarks made in the meetup to individuals.
+    <br />
+    <br />
+    Afterparty: Join us at Hubbard Inn, 110 W. Hubbard St., after the discussion
+    to continue chatting over drinks.
   </p>
 
   <div class="Home-posts">
     <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-    {% assign event_posts = 7 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "socratic" or post.type == "whitepaper"%}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          <span class="Home-posts-post-arrow">&raquo;</span>
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == event_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    {% assign event_posts = 7 %} {% assign counter = 0 %} {% for post in
+    site.posts %} {% if post.type == "socratic" or post.type == "whitepaper"%}
+    <div class="Home-posts-post">
+      <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+      <span class="Home-posts-post-arrow">&raquo;</span>
+      <a class="Home-posts-post-title" href="{{ post.url }}"
+        >{{ post.title }}</a
+      >
+    </div>
+    {% assign counter = counter | plus: 1 %} {% if counter == event_posts %} {%
+    break %} {% comment %}exit the for loop{% endcomment %} {% endif %} {% endif
+    %} {% endfor %}
     <p><a href="/events.html">See all events</a></p>
   </div>
   <div class="Home-posts">
     <h2 class="Home-posts-title">Recent Blog Posts</h2>
-    {% assign blog_posts = 3 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "blog" %}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          &raquo;
-          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == blog_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    {% assign blog_posts = 3 %} {% assign counter = 0 %} {% for post in
+    site.posts %} {% if post.type == "blog" %}
+    <div class="Home-posts-post">
+      <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+      &raquo;
+      <a class="Home-posts-post-title" href="{{ post.url }}"
+        >{{ post.title }}</a
+      >
+    </div>
+    {% assign counter = counter | plus: 1 %} {% if counter == blog_posts %} {%
+    break %} {% comment %}exit the for loop{% endcomment %} {% endif %} {% endif
+    %} {% endfor %}
     <p><a href="/blog.html">See all blog posts</a></p>
   </div>
 </div>
