@@ -1,12 +1,11 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 108"
+title: "Socratic Seminar 01"
 meetup: https://www.meetup.com/BitDevsNYC/events/283380081/
 ---
 
 # Discussion
-
 
 ## Fee accounts
 
@@ -15,11 +14,10 @@ meetup: https://www.meetup.com/BitDevsNYC/events/283380081/
 **Credits:** Jeremy Rubin
 
 This is a mechanism for paying fees for transactions in the mempool without
-changing the transaction.  Related to *sponsor transactions* which can
+changing the transaction. Related to _sponsor transactions_ which can
 contribute fees to another transaction.
 
--   Does being able to pay fees for a transaction in the mempool solve problems for anyone here?
-
+- Does being able to pay fees for a transaction in the mempool solve problems for anyone here?
 
 ## RBF policy
 
@@ -30,15 +28,13 @@ contribute fees to another transaction.
 Bitcoin core has to have a policy for what to do when it sees a transaction
 spending the same input as one already in its mempool.
 
--   Are you concerned about pinning attacks affecting software you run or your business?
--   What are the priorities for transaction replacement policy?  Should bitcoin core be aware of common applications like the Lightning Network?
-
+- Are you concerned about pinning attacks affecting software you run or your business?
+- What are the priorities for transaction replacement policy? Should bitcoin core be aware of common applications like the Lightning Network?
 
 ## Github repo personnel change
 
 Andrew Chow became a maintainer and started merging changes into bitcoin&rsquo;s
 master branch.
-
 
 ## Stateful scripts in the UTXO model
 
@@ -47,13 +43,12 @@ master branch.
 **Credits:** Bram Cohen, Billy Tetrud
 
 In this discussion, the author sketches what he thinks is a minimal changeset to
-bring expressive covenants (and capabilities) to bitcoin.  Two of the primary
+bring expressive covenants (and capabilities) to bitcoin. Two of the primary
 concerns are a need for an explicit descendent relationship between inputs and
 outputs in a transaction and the cost of repeating scripts on chain for every
 output that uses them.
 
--   Any thoughts on the design of Chia&rsquo;s scripting system?  Are there any features that you want to patch into bitcoin?
-
+- Any thoughts on the design of Chia&rsquo;s scripting system? Are there any features that you want to patch into bitcoin?
 
 ## `OP_TXHASH` and `OP_CSFS` enable CTV and APO
 
@@ -61,14 +56,13 @@ output that uses them.
 
 **Credits:** Russel O&rsquo;Connor
 
--   `OP_TXHASH` pops a flag off the stack and then pushes a transaction digest computed according to that flag onto the stack
--   `OP_CSFS` pops a key, message digest, and sig from the stack and checks them
+- `OP_TXHASH` pops a flag off the stack and then pushes a transaction digest computed according to that flag onto the stack
+- `OP_CSFS` pops a key, message digest, and sig from the stack and checks them
 
 Devs can implement CTV and APO functionality using these opcodes:
 
--   *CTV:* `<FLAG_CTV> OP_TXHASH OP_EQUALVERIFY` with `<TARGET_TXHASH>` on the stack
--   *APO:* `<FLAG_APO> OP_TXHASH <PUBKEY> OP_CSFS` with `<SIG>` on the stack
-
+- _CTV:_ `<FLAG_CTV> OP_TXHASH OP_EQUALVERIFY` with `<TARGET_TXHASH>` on the stack
+- _APO:_ `<FLAG_APO> OP_TXHASH <PUBKEY> OP_CSFS` with `<SIG>` on the stack
 
 ## `OP_CTV` and DLCs
 
@@ -77,13 +71,11 @@ Devs can implement CTV and APO functionality using these opcodes:
 **Credits:** Lloyd Fournier
 
 `OP_CTV` can significantly reduce the amount of computation required to set up a
-DLC.  It is already possible to commit to a different key for each outcome in
-the script tree of a taproot outcome.  `OP_CTV` makes it possible to commit to a
-spending transaction in each tapleaf as well.  This enforces the payout.
-
+DLC. It is already possible to commit to a different key for each outcome in
+the script tree of a taproot outcome. `OP_CTV` makes it possible to commit to a
+spending transaction in each tapleaf as well. This enforces the payout.
 
 # Security
-
 
 ## Polkit bug
 
@@ -91,7 +83,6 @@ spending transaction in each tapleaf as well.  This enforces the payout.
 
 An unprivileged user can execute commands as root. Mitigate by updating to
 get a recent version of polkit.
-
 
 ## Ubuntu vuln
 
@@ -103,13 +94,11 @@ An unprivileged user can execute commands as root. Mitigate with
 
 or patch your kernel.
 
-
 ## The plausibly deniable database
 
 <https://www.bunniestudios.com/blog/?p=6307>
 
 A secret store optimized for sharing decoy secrets under duress.
-
 
 ## Wormhole hack
 
@@ -118,55 +107,47 @@ A secret store optimized for sharing decoy secrets under duress.
 The attacker switched a real utility contract for a false one and forged
 signatures on Solana.
 
-
 # Data
-
 
 ## Address reuse
 
 <https://blog.bitmex.com/bitcoin-address-re-use-statistics/>
 
 Address re-use has declined a little over the last 5 years, but remains high.
-About half of outputs pay to a reused address.  Most address reuse by volume
-comes from transactions that reuse one or more adresses from their inputs.  As
+About half of outputs pay to a reused address. Most address reuse by volume
+comes from transactions that reuse one or more adresses from their inputs. As
 much as 80% of bitcoin transfers by volume create a new output with the same
 script as an input.
 
-
 ## Electrum server performance
 
-<https://sparrowwallet.com/docs/server-performance.html> 
+<https://sparrowwallet.com/docs/server-performance.html>
 
 **Credits:** Craig Raw
 
 Sparrow lead developer Craig Raw benchmarked several Electrum server
-implementations.  He documents a strong time-space trade-off, where the
+implementations. He documents a strong time-space trade-off, where the
 implementation, `Fulcrum`, with the largest on-disk footprint had
 disproportionately better performance.
 
-
 # Projects
 
--   <https://github.com/arcbtc/bitcoinpos> &#x2013; POS system with LN workflows
--   <https://lnurl.com> - LNBits wallet service software
-
+- <https://github.com/arcbtc/bitcoinpos> &#x2013; POS system with LN workflows
+- <https://lnurl.com> - LNBits wallet service software
 
 # Info & Education
-
 
 ## Bitcoin design guide
 
 <https://bitcoin.design/guide>
 
 This site maps out the most common user flows. It provides context to understand
-why the flows look the way they do.  It also includes some research on bitcoin
+why the flows look the way they do. It also includes some research on bitcoin
 users, including what aspects of using bitcoin cause friction.
-
 
 ## The simple lightning newsletter
 
 <https://simplelightning.com>
-
 
 # Politics
 
