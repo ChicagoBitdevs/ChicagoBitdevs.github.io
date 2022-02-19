@@ -6,3 +6,4 @@ menu:
   - {name: 'Events', url: '/events'}
   - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/ChiBitDevs/', external: true}
+  - {name: 'Sponsors', url: '/sponsors'}
