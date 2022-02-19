@@ -2,23 +2,23 @@
 ---
 
 // Typography
-$body-font: 'Source Code Pro', monospace;
+$body-font: "Source Code Pro", monospace;
 $base-font-size: 16px;
 
 // Colors
-$primary-color: #FF9900;
-$background-color: #FFF;
-$font-color: #333;
+$primary-color: #41b6e6;
+$background-color: #000000;
+$font-color: #ffffff;
 
 // Screen size for responsiveness
 $small-screen: 400px;
 $mid-screen: 768px;
 $large-screen: 1024px;
 
-@import './reset';
-@import './global';
-@import './header';
-@import './footer';
-@import './home';
-@import './post';
-@import './blog';
+@import "./reset";
+@import "./global";
+@import "./header";
+@import "./footer";
+@import "./home";
+@import "./post";
+@import "./blog";
