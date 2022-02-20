@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 01"
-meetup: https://www.meetup.com/BitDevsNYC/events/283380081/
+title: "Socratic Seminar 27"
+meetup: https://www.meetup.com/ChiBitDevs/events/zvhnrsydcdbnb/
 ---
 
 # Discussion
