@@ -16,17 +16,4 @@ title: Meetings
     </div>
     {% endif %} {% endfor %}
   </div>
-
-  <div class="Home-posts">
-    <h2 class="Home-posts-title">Whitepaper Series</h2>
-    {% for post in site.posts %} {% if post.type == "whitepaper" %}
-    <div class="Home-posts-post">
-      <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-      &raquo;
-      <a class="Home-posts-post-title" href="{{ post.url }}"
-        >{{ post.title }}</a
-      >
-    </div>
-    {% endif %} {% endfor %}
-  </div>
 </div>
