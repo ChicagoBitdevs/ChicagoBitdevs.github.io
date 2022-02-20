@@ -37,5 +37,5 @@ Jekyll injects variables, so be sure to update both.
 
 ## Attributions
 
-Thanks to [LeNPaul](https://github.com/LeNPaul/jekyll-starter-kit) for the
-Jekyll starter kit this was forked from.
+This project is a fork of [NY
+BitDevs](https://github.com/BitDevsNYC/BitDevsNYC.github.io).
