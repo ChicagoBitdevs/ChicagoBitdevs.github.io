@@ -6,4 +6,6 @@ Please note that Chicago BitDevs aims at a technical audience. A general expecta
 
 Newcomers to bitcoin should make sure check out the [Bitcoin & Open Blockchain meetup](https://www.meetup.com/Bitcoin-Open-Blockchain-Community-Chicago/)
 
+You can also find us on [Twitter](https://twitter.com/chibitdevs) and [Telegram](https://t.me/chibitdevs)
+
 [Bitcoin WhitePaper](https://bitcoin.org/bitcoin.pdf)
