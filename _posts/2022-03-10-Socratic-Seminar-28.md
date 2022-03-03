@@ -19,6 +19,8 @@ meetup: https://www.meetup.com/ChiBitDevs/events/283055747/
 
 <https://coinpool.dev/>
 
+[A Dive into CoinPool : Bitcoin Balances for Billions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html)
+
 **Credits:** Gleb Naumenko, Antoine Riard
 
 
@@ -46,6 +48,30 @@ number in `[1, totalMined]` is in exactly one interval.
 
 -   What is your vision for the scope of the lightning network standards?
 -   When LL rolls out products that fill gaps in standardized LN functionality, has it been consistent with your vision?
+
+
+## Teleport
+
+[A CoinSwap implementation alpha release, provides invisible private transactions](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/020026.html)
+
+**Credits:** Chris Belcher
+
+
+## How Wasabi was "demixed" by Chainalysis
+
+- [Twitter thread and visual demonstration](https://twitter.com/SamouraiWallet/status/1496526472307224578) 
+
+**Credits** Samourai Wallet
+
+
+## Feature Request: BIP47 payment codes for private donations (PayNym)
+
+https://github.com/bitcoindevkit/bdk/issues/549
+
+-[PayNyms 101](https://bitcoiner.guide/paynym/#:~:text=The%20structure%20of%20BIP47%20dictates,of%20any%20PayNym%20generated%20transactions.)
+
+**Credits** satrinity402
+
 
 
 # Politics
