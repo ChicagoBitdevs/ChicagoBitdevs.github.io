@@ -12,11 +12,8 @@ mkShell {
   ];
 
   shellHook = ''
-    echo Installing ...
-    bundle install &> /dev/null
-
-    function cbd_build { bundle exec jekyll build; }
-    function cbd_serve { bundle exec jekyll serve --watch; }
+    function cbd_build { bundle exec jekyll build --future; }
+    function cbd_serve { bundle exec jekyll serve --watch --future; }
 
     echo cbd_build -- build the project
     echo cbd_serve -- start a webserver serving the site which automaticaly rebuilds the project
