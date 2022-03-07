@@ -86,6 +86,13 @@ Due to a flaw in the wallet, an address was used both for a mix output and a cha
 **Credits** satrinity402
 
 
+## Vault implementation using OP_CTV
+
+<https://github.com/jamesob/simple-ctv-vault>
+
+**Credits:** James O'Bierne
+
+
 ## KYC Act
   
 <https://bitcoinmagazine.com/markets/us-congressman-warren-davidson-introduces-the-keep-your-coins-act>
