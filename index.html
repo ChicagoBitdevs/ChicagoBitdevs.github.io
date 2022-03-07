@@ -26,7 +26,7 @@ title: Home
     site.posts %} {% if post.type == "socratic" or post.type == "whitepaper"%}
     <div class="Home-posts-post">
       <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-      <span class="Home-posts-post-arrow">&raquo;</span>
+      <span class="Home-posts-post-sep"> ... </span>
       <a class="Home-posts-post-title" href="{{ post.url }}"
         >{{ post.title }}</a
       >

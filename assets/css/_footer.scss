@@ -2,10 +2,8 @@
   margin-top: 2rem;
 
   &-border {
-    opacity: 0.4;
-    margin-bottom: 1em;
-    overflow: hidden;
-    user-select: none;
+    height: 2ex;
+    border-top: 2px grey solid;
   }
 
   &-inner {
