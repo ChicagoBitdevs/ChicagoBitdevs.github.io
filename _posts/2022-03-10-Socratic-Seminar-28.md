@@ -103,6 +103,47 @@ Due to a flaw in the wallet, an address was used both for a mix output and a cha
 > real or virtual goods and services for the user’s own use; or (2) conduct
 > transactions through a self-hosted wallet.”
 
+## Cash app adds Lightning support
+
+https://twitter.com/CashApp/status/1490767860750336004
+
+## Lightning Payment Speed 2022
+
+https://blog.lnrouter.app/lightning-payment-speed-2022
+
+>As a service, it is hard to choose reliable routing peers that forward payments quickly. Plenty of nodes have bad response times and do not maintain proper liquidity in their channels. This makes payments slow and payment times of 8+ seconds not uncommon. Recent tests by c-lightning revealed a median payment time of 8.6s baseline. And no, this is not a unique c-lightning issue.
+
+**Credits:** SeverinAlexB
+
+## Mempool reaches 60 blocks deep in Feburary!
+
+https://twitter.com/murchandamus/status/1492212197652639754
+
+**Credits:** Mark Erhardt
+
+## Phishers are getting more sophisticated, be careful!
+
+https://twitter.com/thomasg_eth/status/1492663192404779013
+
+Very sophisticated phisher that was extremely well funded attempting to steal eth.
+
+**Credits:** thomasg_eth
+
+## Coinbase security flaw with internal accounting of assets 
+
+https://blog.coinbase.com/retrospective-recent-coinbase-bug-bounty-award-9f127e04f060
+
+>The underlying cause of the bug was a missing logic validation check in a Retail Brokerage API endpoint, which allowed a user to submit trades to a specific order book using a mismatched source account. This API is only utilized by our Retail Advanced Trading platform, which is currently in limited beta release.
+
+
+## Recurring payments for Bitcoin/LN using DLCs
+
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020035.html
+
+Is it useful to have arbitrary lines of credit for bitcoin wallets? Is this identical to nLockTime schemes and thus adds uncessary complexity?
+
+**Credits:** Chris Stewart
+
 
 # Projects
 
