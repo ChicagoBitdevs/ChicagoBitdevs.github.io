@@ -156,4 +156,4 @@ This is the monthly feature where we collect software that is New to Us (TM).
 - <https://privy.io> &#x2013; APIs for encrypted data storage
 - <https://tech.bitbank.cc/nloop-announcement-en/> &#x2013; Generic lightning loop
 - <https://lightningescrow.io> &#x2013; Escrow services for physical goods transactions
-- [Robosats p2p exchange](robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion) &#x2013; P2P exchange based on HODL invoices
+- [Robosats p2p exchange](robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion) &#x2013; P2P exchange based on HODL invoices  (Tor only - use Tor Browser to open link)
