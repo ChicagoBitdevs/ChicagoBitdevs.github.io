@@ -7,7 +7,9 @@ meetup: https://www.meetup.com/ChiBitDevs/events/283055747/
 
 ## How Wasabi was "demixed" by Chainalysis
 
-[Twitter thread and visual demonstration](https://twitter.com/SamouraiWallet/status/1496526472307224578) 
+[Twitter thread and visual demonstration](https://twitter.com/SamouraiWallet/status/1496526472307224578)
+
+<https://twitter.com/benthecarman/status/1497270907290763270>
 
 **Credits** Samourai Wallet
 
@@ -20,6 +22,9 @@ Due to a flaw in the wallet, an address was used both for a mix output and a cha
 
 **Credits:** Chris Belcher
 
+This is a proof of concept release.  From the readme:
+
+> It doesn't have config files yet so you have to edit the source files to configure stuff.
 
 ## CoinPool
 
@@ -29,8 +34,13 @@ Due to a flaw in the wallet, an address was used both for a mix output and a cha
 
 **Credits:** Gleb Naumenko, Antoine Riard
 
+This is a scaling solution for bitcoin based around shared ownership of a UTXO.
+The construction uses new opcodes in order to facilitate any-order withdrawals
+without needing to store an exponential number of pre-signed transactions.
+However, most operations require participation from all participants to succeed.
 
-## Thoughts on porting Chialisp for bitcoin
+
+## Thoughts on scripting bitcoin with lisp
 
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020036.html>
 
@@ -38,23 +48,6 @@ Due to a flaw in the wallet, an address was used both for a mix output and a cha
 
 An assessment of Chialisp and a comparison between `Simplicity` vs. `btc-lisp`
 futures for bitcoin.
-
-
-## High level look at the fee system
-
-<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019879.html>
-
-**Credits:** James O&rsquo;Beirne
-
-
-## OP_EVICT
-
-<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019926.html>
-
-**Credits:** ZmnSCPxj
-
-Thoughts on an alternative to `OP_TAPLEAFUPDATEVERIFY` for propagating scripts
-with changes to outputs.
 
 
 ## Lightning Labs products
@@ -104,7 +97,7 @@ Very sophisticated phisher that was extremely well funded attempting to steal et
 **Credits:** thomasg_eth
 
 
-## Coinbase security flaw with internal accounting of assets 
+## Coinbase security flaw with internal accounting of assets
 
 <https://blog.coinbase.com/retrospective-recent-coinbase-bug-bounty-award-9f127e04f060>
 
@@ -142,8 +135,15 @@ UTXO corresponds to a collection of intervals, and for each block every natural
 number in `[1, totalMined]` is in exactly one interval.
 
 
+## High level look at the fee system
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019879.html>
+
+**Credits:** James O&rsquo;Beirne
+
+
 ## KYC Act
-  
+
 <https://bitcoinmagazine.com/markets/us-congressman-warren-davidson-introduces-the-keep-your-coins-act>
 
 > If passed, the bill would prevent any agency head from prohibiting or otherwise restricting “the ability of a covered user to— (1) use virtual currency or its equivalent for such user’s own purposes, such as to purchase real or virtual goods and services for the user’s own use; or (2) conduct transactions through a self-hosted wallet.”
@@ -156,3 +156,4 @@ This is the monthly feature where we collect software that is New to Us (TM).
 - <https://privy.io> &#x2013; APIs for encrypted data storage
 - <https://tech.bitbank.cc/nloop-announcement-en/> &#x2013; Generic lightning loop
 - <https://lightningescrow.io> &#x2013; Escrow services for physical goods transactions
+- [Robosats p2p exchange](robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion) &#x2013; P2P exchange based on HODL invoices
