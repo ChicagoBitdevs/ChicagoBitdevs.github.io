@@ -93,7 +93,7 @@ design takes care to ensure that it is possible to route assets over LN.
 
 **Credits:** W3c
 
-There as a lot of talk at Bitcoin 2022 about DIDs. I have not seen one before
+There was a lot of talk at Bitcoin 2022 about DIDs. I have not seen one before
 so i thought it would be fun to see an example. DIDs underpin the much talked
 about tbDEX project from Block.
 
