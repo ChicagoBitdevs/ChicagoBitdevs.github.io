@@ -56,6 +56,9 @@ _Audience question:_ are you concerned about this finding?
 
 **Credits:** Galaxy Digital
 
+This is a very lucid explanation of the stratum protocols (V1 and V2), which
+lays out the problems that V2 solves.
+
 ## Post-quantum crypto deployed in SSH
 
 <https://www.openssh.com/releasenotes.html#9.0>
