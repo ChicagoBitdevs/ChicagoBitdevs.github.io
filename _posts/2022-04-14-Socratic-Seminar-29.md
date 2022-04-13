@@ -87,6 +87,27 @@ very conservative security assumptions and has good composition.
 This is a data management system for asset metadata to mark up UTXOs.  The
 design takes care to ensure that it is possible to route assets over LN.
 
+## Decentralized Identifiers Example
+
+<https://www.w3.org/TR/did-core/#a-simple-example>
+
+**Credits:** W3c
+
+There as a lot of talk at Bitcoin 2022 about DIDs. I have not seen one before
+so i thought it would be fun to see an example. DIDs underpin the much talked
+about tbDEX project from Block.
+
+## tbDEX
+
+<https://tbdex.io/whitepaper.pdf>
+
+**Credits:** tbDEX
+
+Apply our learnings from the DID section and explore how tbDEX is suppose to work.
+tbDEX is essentially built ontop of DIDs, so we need to understand how those work,
+and then we can examine how tbDEX uses those in their whitepaper.
+
+
 ## Links
 
 - <https://bitcoinbounties.org/>
