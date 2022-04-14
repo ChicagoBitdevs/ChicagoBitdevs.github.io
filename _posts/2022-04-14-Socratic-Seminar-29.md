@@ -107,6 +107,33 @@ Apply our learnings from the DID section and explore how tbDEX is suppose to wor
 tbDEX is essentially built ontop of DIDs, so we need to understand how those work,
 and then we can examine how tbDEX uses those in their whitepaper.
 
+## libbitcoinkernel progress
+
+<https://github.com/bitcoin/bitcoin/issues/24303>
+
+**Credits:** Carl Dong
+
+The libbitcoinkernel project has made progress in its attempts to seperate bitcoin's consensus code
+into a seperate library from core and discussion has begun on its usefulness. 
+Its aim of creating a functioning consensus kernal would allow for more robust changes to core,
+and for more node implementations to be feasible.
+
+## LNLink adds bolt12 integration
+
+<https://lnlink.app/>
+
+**Credits:** JB55
+
+LNLink is a new noncustodial FOSS lightning wallet app that interfaces with C-lightning.
+The app has recently added bolt11/bolt12-offer generation, and demonstrated tip-jar functionality.
+
+## 19 million bitcoin mined
+
+<https://twitter.com/jb55/status/1509941576738517000?s=20&t=YRSE89tHRIRYI2n-1xjkhw>
+
+**Credits:** JB55
+
+As of block 730034, 19000004.68097367 bitcoin have been mined
 
 ## Links
 
