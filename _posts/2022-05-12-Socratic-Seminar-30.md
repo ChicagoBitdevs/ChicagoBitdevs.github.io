@@ -38,7 +38,7 @@ BIP 119 is not new, but since talk of activation ramped up a lot this month we a
 
 One interesting new feature is [CJDNS](https://github.com/bitcoin/bitcoin/blob/23.x/doc/cjdns.md) support.
 
-## History of bitcoin-s consensus forks
+## History of bitcoin consensus forks
 
 <https://blog.bitmex.com/bitcoins-consensus-forks/>
 
