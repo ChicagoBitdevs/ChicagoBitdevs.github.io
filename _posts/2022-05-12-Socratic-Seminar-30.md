@@ -59,3 +59,11 @@ How to activate BIP119 on the bitcoin network courtesy of Jeremy Rubin
 **Credit:** Jeremy Rubin
 
 Feedback received from attempting to activate bip 119. Jeremy will not try to activate bip119 via existing soft fork activation mechanisms in the near term future.
+
+## Binance lights half a mil on fire because they.... can?
+
+<https://twitter.com/murchandamus/status/1524588144334721024>
+
+**Credit:** Murch
+
+Binance dropped 200mb+ worth of bitcoin transactions into the mempool consolidating their utxos. The transactions all have a fee of 14sats/vbyte. This fee is too high, why not drop them with 1sat/vbyte?
