@@ -37,3 +37,25 @@ BIP 119 is not new, but since talk of activation ramped up a lot this month we a
 <https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-23.0.md>
 
 One interesting new feature is [CJDNS](https://github.com/bitcoin/bitcoin/blob/23.x/doc/cjdns.md) support.
+
+## History of bitcoin-s consensus forks
+
+<https://blog.bitmex.com/bitcoins-consensus-forks/>
+
+A great overview of all the consensus forks, and the mechanism to activate that fork.
+
+## 7 next steps for BIP 119
+
+<https://rubin.io/bitcoin/2022/04/17/next-steps-bip119/>
+
+How to activate BIP119 on the bitcoin network courtesy of Jeremy Rubin
+
+**Credit:** Jeremy Rubin
+
+## Working towards consensus of BIP119
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020397.html>
+
+**Credit:** Jeremy Rubin
+
+Feedback received from attempting to activate bip 119. Jeremy will not try to activate bip119 via existing soft fork activation mechanisms in the near term future.
