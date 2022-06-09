@@ -29,3 +29,9 @@ between the v21 release of bitcoin core and v22 release of bitcoin core.
 <https://blog.summerofbitcoin.org/summer-of-bitcoin-2022/>
 
 I (Chris) have a summer of bitcoin intern. This is an awesome program that reaches _very_ talented contributors.
+
+## Ln Summit 2022
+
+Roasbeef's synoposis of what was discussed in Oakland at the lightning developer summit
+
+<https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003600.html>
