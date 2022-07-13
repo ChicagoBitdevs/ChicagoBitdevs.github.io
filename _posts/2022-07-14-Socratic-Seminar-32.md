@@ -58,3 +58,8 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssydckbsb/
 
 **Credit:** Peter Todd
 
+## The OP_Return Wars of 2014 – Dapps Vs Bitcoin Transactions 
+
+<https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/>
+
+**Credit:** BitMEX Research
