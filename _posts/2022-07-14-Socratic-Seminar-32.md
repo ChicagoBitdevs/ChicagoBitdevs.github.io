@@ -46,6 +46,12 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssydckbsb/
 
 **Credit:** Chris Stewart
 
+## Why does OP_CHECKSIGADD stop script execution in the case of an invalid signature?
+
+<https://bitcoin.stackexchange.com/a/114448/20835>
+
+**Credit:** Andrew Chow & Pieter Wuille
+
 ## Security problems with relying on transaction fees for security
 
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020702.html>
