@@ -5,11 +5,13 @@
 
 with pkgs;
 
-mkShell {
-  buildInputs = [
-    ruby
-    bundler
-  ];
+let gems = pkgs.bundlerEnv {
+      name = "chicago-bitdevs";
+      gemdir = ./.;
+    };
+
+in mkShell {
+  buildInputs = [gems ruby];
 
   shellHook = ''
     function cbd_build { bundle exec jekyll build; }
