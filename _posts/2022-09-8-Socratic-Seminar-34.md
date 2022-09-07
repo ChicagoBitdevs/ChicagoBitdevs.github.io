@@ -28,3 +28,9 @@ https://www.meetup.com/chibitdevs/events/hsqwssydcmblb/
 <https://bitcoinmagazine.com/technical/making-bitcoin-unstoppable-part-one-mesh-nets>
 
 **Credit:** L0LA L33TZ / Bitcoin Magazine
+
+## Can the US military disrupt the bitcoin network for > 3 months
+
+<https://twitter.com/Chris_Stewart_5/status/1551617034940735488>
+
+**Credit:** Chris Stewart
