@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 34"
-https://www.meetup.com/chibitdevs/events/hsqwssydcmblb/
+meetup: https://www.meetup.com/chibitdevs/events/hsqwssydcmblb/
 ---
 
 ## Mempool.space Lightning Network Support
