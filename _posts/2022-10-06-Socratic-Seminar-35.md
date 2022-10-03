@@ -45,3 +45,11 @@ machine underlying drivechain with `APO` and pre-signed transactions (or `CTV`).
 construction provides a mechanism for miners to vote on proposals.  However,
 there is no reusable way to limit the transaction spent by the final state
 (enough votes).
+
+## Mining Concentration In America Poses A Major Threat To Bitcoin
+
+<https://bitcoinmagazine.com/business/bitcoin-mining-concentration-in-america>
+
+**Credit:** Shinobi & Bitcoin Magazine
+
+"Blind patriotism encouraging further centralization of mining in America is a regulatory capture trap."
