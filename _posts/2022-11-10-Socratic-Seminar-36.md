@@ -45,4 +45,18 @@ taproot transactions to the bitcoin network.
 
 <https://mempool.space/tx/73be398c4bdc43709db7398106609eea2a7841aaf3a4fa2000dc18184faa2a7e>
 
+### Should we update our nodes, should LN be more stable wrt to bitcoind versions?
+
+<https://twitter.com/bitcoinerrorlog/status/1590084782196944896>
+
 **Credit:** Burak, Roasbeef, Ben Carman 
+
+
+## Privacy footgun catches Silk Road hacker
+
+Change output are hard to manage. The Silk Road hacker accidentally co-mingled clean and dirty funds
+resulting in his arrest by the US govt.
+
+<https://twitter.com/FractalEncrypt/status/1590004511015571456>
+
+**Credit:** Dimi 
