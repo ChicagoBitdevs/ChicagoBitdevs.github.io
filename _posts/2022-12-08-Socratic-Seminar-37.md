@@ -53,7 +53,7 @@ November proof of reserves and liabilities snapshot on the BitMEX platform
 
 <https://blog.bitmex.com/bitmex-provides-snapshot-update-to-proof-of-reserves-proof-of-liabilities/>
 
-#### Example Proof of Reserves for 11/09/22 for BitMEX Platform 
+#### Example Proof of Reserves for 11/09/22 for BitMEX Platform
 
 <https://i.imgur.com/jeZ3sY9.png>
 
@@ -61,12 +61,10 @@ November proof of reserves and liabilities snapshot on the BitMEX platform
 
 <https://i.imgur.com/PnV0hUi.png>
 
-#### Software to validate the reserves/liabilities 
+#### Software to validate the reserves/liabilities
 
 Tool Suite for Generating and Validating Proofs of Reserves(PoR) and Liabilities(PoL)
 
 <https://github.com/BitMEX/proof-of-reserves-liabilities>
 
 **Credit:** BitMEX
-
-
