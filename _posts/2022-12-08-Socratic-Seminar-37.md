@@ -18,7 +18,7 @@ Notable changes:
 - reproducable `guix` builds
 - some wallet RPCs now consume and emit Miniscript expressions
 
-## New attacks on SGX
+## SGX resilience in production 
 
 <https://sgx.fail>
 
@@ -41,30 +41,22 @@ Computations are bonded and any user can challenge that the committed execution
 transcript matches running the committed program on the starting state, via a
 binary search procedure.
 
-## Fixing The Privacy Gap In Proof Of Liability Protocols
+## Channel jamming
 
-<https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/>
+<https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html>
 
-**Credit:** BitMEX Research
+**Credit:** Antoine Riard
 
-## 11/09/2022 BitMEX Proof of Reserve/Liabilities Snapshot
+<https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html>
 
-November proof of reserves and liabilities snapshot on the BitMEX platform
+**Credit:** Clara Shikhelman and Sergei Tikhomirov
 
-<https://blog.bitmex.com/bitmex-provides-snapshot-update-to-proof-of-reserves-proof-of-liabilities/>
-
-#### Example Proof of Reserves for 11/09/22 for BitMEX Platform
-
-<https://i.imgur.com/jeZ3sY9.png>
-
-#### Example Proof of Liabilities for 11/09/22 for BitMEX Platform
-
-<https://i.imgur.com/PnV0hUi.png>
-
-#### Software to validate the reserves/liabilities
-
-Tool Suite for Generating and Validating Proofs of Reserves(PoR) and Liabilities(PoL)
-
-<https://github.com/BitMEX/proof-of-reserves-liabilities>
-
-**Credit:** BitMEX
+In the lightning network channels in the process of routing a payment dedicate
+liquidity and an HTLC slot to the payment for as long as it takes to resolve.
+This ends up being a way to grief channels: send payments with intent to fail
+them later.  Two DoS methods are to (1) rapidly create and fail payments along a
+route in order to tie up channel resources and (2) create long-lived payments
+that eventually fail.  Mitigation is an active area of research which includes
+adding fees to try a payment (not refunded if it fails) and devising a scoring
+algorithm for incoming payments to try increase the probability that routed
+payments succeed in a timely manner.
