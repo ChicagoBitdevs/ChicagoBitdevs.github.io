@@ -5,30 +5,78 @@ title: "Socratic Seminar 38"
 meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 ---
 
-## Fixing The Privacy Gap In Proof Of Liability Protocols
+## Nostr
 
-<https://blog.bitmex.com/addressing-the-privacy-gap-in-proof-of-liability-protocols/>
+<https://github.com/nostr-protocol/nostr>
 
-**Credit:** BitMEX Research
+<https://github.com/aljazceru/awesome-nostr>
 
-## 11/09/2022 BitMEX Proof of Reserve/Liabilities Snapshot
+**Credit:** fiatjaf
 
-November proof of reserves and liabilities snapshot on the BitMEX platform
+NOSTR is a minimalistic message relay protocol, designed with social media in
+mind.  There is a specific message schema.  Each message is associated with a
+public key and signed.
 
-<https://blog.bitmex.com/bitmex-provides-snapshot-update-to-proof-of-reserves-proof-of-liabilities/>
+## Vulnerabilities in Threema
 
-#### Example Proof of Reserves for 11/09/22 for BitMEX Platform
+<https://breakingthe3ma.app>
 
-<https://i.imgur.com/jeZ3sY9.png>
+This work identifies a number of weaknesses in Threema (Swiss security-oriented
+messaging app) under several threat models.
 
-#### Example Proof of Liabilities for 11/09/22 for BitMEX Platform
+## OP_VAULT
 
-<https://i.imgur.com/PnV0hUi.png>
+<https://jameso.be/vaults.pdf>
 
-#### Software to validate the reserves/liabilities
+**Credit:** James O'Bierne
 
-Tool Suite for Generating and Validating Proofs of Reserves(PoR) and Liabilities(PoL)
+This introduces a pair of opcodes specifically designed to support the vault
+workflow.  This is a good example of a very narrowly conceived covenant.
 
-<https://github.com/BitMEX/proof-of-reserves-liabilities>
+## Zero-knowledge proof systems
 
-**Credit:** BitMEX
+Currently, the only way to guarantee the correctness of the UTXO set is to find
+the most-work chain, download all the blocks, verify that each block is valid
+and compute the UTXO set.  This is difficult or impossible for
+bandwidth-restricted users and creates an ongoing requirement that some users
+serve historical blocks.
+
+### ZeroSync
+
+<https://github.com/ZeroSync/ZeroSync>
+
+ZeroSync is an ambitious project to use the STARK proof system to generate
+succinct proofs of important propositions about the bitcoin UTXO set.  The goal
+is to make it possible for light clients to store a very small cryptographic
+witness as to the correctness of the UTXO set at each tip.  With each block,
+such a client would download a new proof and verify correctness using just the
+old proof and the new block.
+
+### utreexo
+
+<https://dci.mit.edu/utreexo>
+
+**Credit:** Thaddeus Dryja
+
+Utreexo is a compact representation of the UTXO set, which supports short
+inclusion proofs and efficient insertion/deletion.
+
+## Window into full RBF rollout
+
+<https://fullrbf.mempool.observer>
+
+**Credit:** 0xb10c
+
+Use this tool to view transactions which do not signal RBF for which there is a
+double spend with a higher fee.
+
+## More flexible UTXOs for mobile users
+
+<https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html>
+
+**Credit:** Jesse Posner, ZmnSCPxj
+
+Users with an LSP can receive funds to a simple contract in order to make it
+possible to safely spend funds via LN as soon as the onchain tx confirms.  This
+cuts out the step of creating a new channel or doing a submarine swap, but adds
+a griefing vector in case the LSP becomes uncooperative.
