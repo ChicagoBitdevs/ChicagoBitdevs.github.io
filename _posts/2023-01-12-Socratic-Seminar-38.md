@@ -5,6 +5,8 @@ title: "Socratic Seminar 38"
 meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 ---
 
+[Workshop survey](https://cryptpad.fr/form/#/2/form/view/au7LxbcraHnesR8V563yYGBXB-3wtswRwJo7o-KUOxw/)
+
 ## Nostr
 
 <https://github.com/nostr-protocol/nostr>
