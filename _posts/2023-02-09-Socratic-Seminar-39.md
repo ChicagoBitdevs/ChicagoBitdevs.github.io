@@ -31,7 +31,11 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 
 <https://mempool.space/tx/0301e0480b374b32851a9462db29dc19fe830a7f7d7a88b81612b9d42099c0ae> 
 
-**Credit:** Casey Rodarmor, Luxor
+### Poelstra's comments
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html>
+
+**Credit:** Casey Rodarmor, Luxor, Andrew Poelstra
 
 ## Bitcoin developer funding
 
