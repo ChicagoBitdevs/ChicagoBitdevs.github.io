@@ -35,6 +35,10 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html>
 
+### BitMEX Research's opinion
+
+<https://blog.bitmex.com/ordinals-data/>
+
 **Credit:** Casey Rodarmor, Luxor, Andrew Poelstra
 
 ## Bitcoin developer funding
@@ -68,3 +72,15 @@ Really cool tool to visualze each individual step of the sha256 algorithm
 <https://braiins.com/blog/debt-capital-markets-in-bitcoin-mining-part-1>
 
 **Credit:** Braiins
+
+## Unenforceable fee obligations in multiparty protocols with Taproot inputs (Taproot bug?)
+
+There is a bug in Taproot that allows the same Tapleaf to be repeated
+multiple times in the same Taproot, potentially at different Taplevels
+incurring different Tapfee rates.
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021444.html>
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021452.html>
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021457.html>
