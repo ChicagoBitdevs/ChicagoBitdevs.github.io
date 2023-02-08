@@ -84,3 +84,5 @@ incurring different Tapfee rates.
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021452.html>
 
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021457.html>
+
+**Credit:** Yuval Kogman, Andrew Poelstra, Russell O'Connor
