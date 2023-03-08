@@ -15,13 +15,23 @@ TL;DR: If you have sats on BlueWallet’s lightning node, please move them as so
 
 <https://twitter.com/MarcoFalke/status/1627987123788824576>
 
-## How many bitocin confirmations are "secure" relative to the distribution of hash rate across mining pools
+## How many bitcoin confirmations are "secure" relative to the distribution of hash rate across mining pools
 
 Lopp talks through how centralization of bitcoin hash rate affects the number of confirmations you should require on high value bitcoin transactions.
 
 <https://blog.lopp.net/how-many-bitcoin-confirmations-is-enough/>
 
 **Credit:** Lopp, Michael Matulef (sourcing)
+
+## Openordex 
+
+Trading inscriptions in a non custodial fashion w/ PSBTs.
+
+<https://twitter.com/orenyomtov/status/1628106067119833107>
+
+<https://openordex.org/>
+
+**Credit:** Orem Yomtov
 
 ## Fedipools
 
