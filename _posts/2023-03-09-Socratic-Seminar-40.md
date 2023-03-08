@@ -31,6 +31,10 @@ Trading inscriptions in a non custodial fashion w/ PSBTs.
 
 <https://openordex.org/>
 
+### How ordinal offers work
+
+<https://github.com/casey/ord/issues/802>
+
 **Credit:** Orem Yomtov
 
 ## Fedipools
