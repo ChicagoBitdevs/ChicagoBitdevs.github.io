@@ -25,7 +25,7 @@ Second invalid block found on 2023/04/06
 
 **Credit:** Sjors Provoost, BitMEX Research, 0xB10C
 
-## MPC private key extraction vuln found 
+## MPC private key extraction vuln found
 
 Verichains announced today that it discovered critical Key Extraction Attacks in many popular Threshold Signature Scheme (TSS) implementations, a Multi-Party Computing (MPC) protocol.
 
@@ -38,3 +38,19 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 <https://github.com/lightning/bolts/pull/765>
 
 **Credit:** Bastien Teinturier
+
+## PoW proposal for Tor DoS protection
+
+<https://github.com/torproject/torspec/blob/main/proposals/327-pow-over-intro.txt>
+
+**Credit:** George Kadianakis, Mike Perry, David Goulet, tevador
+
+Facing persistent DoS attacks, Tor developers designed a proof of work scheme. Services broadcast PoW parameters in the service descriptor. Clients submit work to get into a priority queue to complete introductions.
+
+## STAMPs
+
+<https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md>
+
+**Credit:** mikeinspace
+
+There is another design for NFTs on Bitcoin. This design introduces a large number of UTXOs for each NFT. The only bound on the number of UTXOs created in a bitcoin block is derived from the block size itself. Let's discuss the implications of soft forking in a bound on the amount a block can increase the UTXO set.
