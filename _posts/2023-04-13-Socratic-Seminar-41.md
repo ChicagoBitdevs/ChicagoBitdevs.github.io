@@ -32,3 +32,9 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 <https://blog.verichains.io/p/verichains-discovers-critical-key>
 
 **Credit:** Verichains
+
+## Route blinding merged into the LN spec
+
+<https://github.com/lightning/bolts/pull/765>
+
+**Credit:** Bastien Teinturier
