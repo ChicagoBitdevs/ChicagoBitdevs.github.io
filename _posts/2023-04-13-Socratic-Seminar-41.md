@@ -23,6 +23,10 @@ Second invalid block found on 2023/04/06
 
 <https://twitter.com/0xB10C/status/1643871608401014785>
 
+Bug:
+
+<https://twitter.com/0xB10C/status/1645108555177947137>
+
 **Credit:** Sjors Provoost, BitMEX Research, 0xB10C
 
 ## MPC private key extraction vuln found 
