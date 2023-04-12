@@ -39,9 +39,13 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 
 Vuln discussed @ Socratic Seminar 26
 
+>Both attacks lead to a complete secret key extraction by exploiting different parts of the Multiplicative-to-Additive (MtA) sub-protocol the parties run during signing.
+
 <https://eprint.iacr.org/2021/1621>
 
 Binance Threshold Signature Scheme Impl
+
+Its under the bnb-chain library, but is it used for binance's cold storage for bitcoin, ether, etc ?
 
 <https://github.com/bnb-chain/tss-lib>
 
