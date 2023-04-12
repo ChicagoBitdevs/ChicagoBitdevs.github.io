@@ -55,7 +55,7 @@ Previous vuln in a TSS implementation disclosed by Verichains
 
 <https://blog.verichains.io/p/vsa-2022-120-multichain-key-extraction>
 
-**Credit:** Verichains
+**Credit:** Verichains, Dmytro Tymokhanov and Omer Shlomovits
 
 ## Route blinding merged into the LN spec
 
