@@ -35,6 +35,16 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 
 <https://blog.verichains.io/p/verichains-discovers-critical-key>
 
+### Old vulns found with MPC 
+
+Vuln discussed @ Socratic Seminar 26
+
+<https://eprint.iacr.org/2021/1621>
+
+Binance Threshold Signature Scheme Impl
+
+<https://github.com/bnb-chain/tss-lib>
+
 **Credit:** Verichains
 
 ## Route blinding merged into the LN spec
