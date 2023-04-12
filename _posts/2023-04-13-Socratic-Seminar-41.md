@@ -41,6 +41,8 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 
 <https://github.com/lightning/bolts/pull/765>
 
+<https://github.com/lightning/bolts/blob/3b814f0d031450a9cddd2718be7ed50c5444095b/proposals/route-blinding.md#introduction>
+
 **Credit:** Bastien Teinturier
 
 ## PoW proposal for Tor DoS protection
