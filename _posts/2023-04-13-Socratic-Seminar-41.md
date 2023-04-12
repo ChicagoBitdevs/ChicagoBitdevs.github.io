@@ -49,6 +49,12 @@ Its under the bnb-chain library, but is it used for binance's cold storage for b
 
 <https://github.com/bnb-chain/tss-lib>
 
+Previous vuln in a TSS implementation disclosed by Verichains
+
+>As a result, a single malicious party can recover the TSS private key of a TSS group, reducing a t/n threshold scheme to 1/n. The attacker only needs to participate in 1 signing ceremony to do so.
+
+<https://blog.verichains.io/p/vsa-2022-120-multichain-key-extraction>
+
 **Credit:** Verichains
 
 ## Route blinding merged into the LN spec
