@@ -35,11 +35,33 @@ Verichains announced today that it discovered critical Key Extraction Attacks in
 
 <https://blog.verichains.io/p/verichains-discovers-critical-key>
 
-**Credit:** Verichains
+### Old vulns found with MPC 
+
+Vuln discussed @ Socratic Seminar 26
+
+>Both attacks lead to a complete secret key extraction by exploiting different parts of the Multiplicative-to-Additive (MtA) sub-protocol the parties run during signing.
+
+<https://eprint.iacr.org/2021/1621>
+
+Binance Threshold Signature Scheme Impl
+
+Its under the bnb-chain library, but is it used for binance's cold storage for bitcoin, ether, etc ?
+
+<https://github.com/bnb-chain/tss-lib>
+
+Previous vuln in a TSS implementation disclosed by Verichains
+
+>As a result, a single malicious party can recover the TSS private key of a TSS group, reducing a t/n threshold scheme to 1/n. The attacker only needs to participate in 1 signing ceremony to do so.
+
+<https://blog.verichains.io/p/vsa-2022-120-multichain-key-extraction>
+
+**Credit:** Verichains, Dmytro Tymokhanov and Omer Shlomovits
 
 ## Route blinding merged into the LN spec
 
 <https://github.com/lightning/bolts/pull/765>
+
+<https://github.com/lightning/bolts/blob/3b814f0d031450a9cddd2718be7ed50c5444095b/proposals/route-blinding.md#introduction>
 
 **Credit:** Bastien Teinturier
 
