@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 42"
+title: "Socratic Seminar 41"
 meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 ---
 
