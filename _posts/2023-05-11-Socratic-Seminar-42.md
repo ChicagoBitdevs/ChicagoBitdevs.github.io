@@ -12,3 +12,10 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfccbqb/
 https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/
 
 **Credit:** Ledger Labs and DonJon
+
+## Bhutan mining bitcoin! 
+
+<https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/>
+
+*Credit:** Bhutanese govt
+
