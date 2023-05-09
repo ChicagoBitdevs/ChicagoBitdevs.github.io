@@ -19,6 +19,10 @@ We've seen a spike in bitcoin transaction fees.
 
 <https://twitter.com/LaurentMT/status/1655206752457981958>
 
+Example txs:
+
+<https://scan.brc-20.io/index?address=bc1phy88g2zt77lvlrwvdyns6sqny58p7vaadxtecjptl935scmhnwnsr9p5sa&token=SHIB>
+
 ### Increase in RBF transactions!
 
 <https://twitter.com/0xB10C/status/1653737192437448704>
@@ -39,5 +43,16 @@ https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-brow
 
 <https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/>
 
-*Credit:** Bhutanese govt
+**Credit:** Bhutanese govt
 
+## Civkit
+
+>We propose a new peer-to-peer electronic market system, which enables
+censorship-resistant and permissionless trading between users of the global
+Bitcoin system. This design builds on top of the new Nostr protocol for its
+peer-to-peer order book and relies on the Bitcoin blockchain as a source of
+truth for its Web-of-Stakes market ranking paradigm.
+
+<https://github.com/civkit/paper/blob/main/civ_kit_paper.pdf>
+
+**Credit:** Antoine Riard, Nicholas Gregory, Ray Youssef
