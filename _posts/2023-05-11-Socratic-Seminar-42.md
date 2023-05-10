@@ -23,7 +23,17 @@ Example txs:
 
 <https://scan.brc-20.io/index?address=bc1phy88g2zt77lvlrwvdyns6sqny58p7vaadxtecjptl935scmhnwnsr9p5sa&token=SHIB>
 
-### Increase in RBF transactions!
+### Tools available to you if you need to bump fees on unconfirmed btc txs
+
+Replace by fee (RBF)
+
+<https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki>
+
+Child pays for parent (CPFP)
+
+<https://bitcoinops.org/en/topics/cpfp/>
+
+#### Increase in RBF transactions!
 
 <https://twitter.com/0xB10C/status/1653737192437448704>
 
@@ -35,7 +45,11 @@ Example txs:
 
 >Seed generation of Trust Wallet was flawed, the total entropy was only 32 bits. We have created a file containing all possible seeds.
 
-https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/
+<https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/>
+
+Post mortem from Trust Wallet:
+
+<https://community.trustwallet.com/t/browser-extension-wasm-vulnerability-postmortem/750787>
 
 **Credit:** Ledger Labs and DonJon
 
