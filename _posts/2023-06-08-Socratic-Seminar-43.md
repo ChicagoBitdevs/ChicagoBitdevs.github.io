@@ -13,7 +13,9 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfcjblb/
 
 <https://github.com/bitcoin/bitcoin/issues/27677>
 
-**Credit:** sdaftuar
+**Credit:** sdaftuar, sipa
+
+In the current bitcoin core logic, selecting transactions for inclusion in a block and choosing transactions to evict from an over-large mempool are handled independently and can conflict with each other.  This proposal involves imposing a structure on the mempool to use for both operations and better harmonize them.
 
 ## Ark
 
@@ -21,11 +23,15 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfcjblb/
 
 **Credit:** Burak Keceli
 
+A proposal for coordinated UTXO management.
+
 ## MATT vaults
 
 <https://www.mail-archive.com/bitcoin-dev@lists.linuxfoundation.org/msg12595.html>
 
 **Credit:** Salvatore Ingala
+
+Merklize All The Things (MATT) introduced a smart contracting method based on a propose-challenge protocol.  This post explores how to build a vault with one of the proposed opcodes, and makes the opcodes a bit more familiar.  The vault is not an instance of the general smart contracting scheme, but rather a simple, direct, ad-hoc implementation.
 
 ## Ledger decides to publish a lot of source code early
 
