@@ -25,6 +25,12 @@ meetup: https://www.meetup.com/chibitdevs/events/hsqwssyfckbrb/
 
 <https://acinq.co/blog/securing-a-100M-lightning-node>
 
+## Phoenix deploys splicing!
+
+>TL; DR: Splicing changes the game. Phoenix now manages a single dynamic channel, no more 1% fee on inbound liquidity, better predictability and control, trustless swaps. The new fee schedule is detailed here.
+
+<https://acinq.co/blog/phoenix-splicing-update>
+
 ## Wallet Scrutiny
 
 >The WalletScrutiny team is a small, non-profit collection of privacy and security-focused engineers helping everyone from bitcoin newcomers to full-fledged cypherpunks make informed decisions about how they store and send their bitcoin. So it’s only fitting to be as transparent about ourselves as we encourage wallet developers to be. 
