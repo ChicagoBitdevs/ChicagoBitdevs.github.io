@@ -46,3 +46,13 @@ The WalletScrutiny team is a small, non-profit collection of privacy and securit
 **Credit:** Elle Mouton
 
 This post will walk through the different operations of a Lightning channel by following a long-running example with plenty of explanatory diagrams. First, we explore how Hash Time Locked Contracts (HTLCs) are added to a channel and how channel peers commit to a new state including these HTLCs. Next, we discuss how a channel’s normal flow is re-established after a disconnection. And finally, we finish with how a cooperative channel closure happens.
+
+## New ECDSA cryptanalysis
+
+<https://eprint.iacr.org/2023/841.pdf>
+
+**Credit:** Dylan Rowe, Joachim Breitner, and Nadia Heninger
+
+This paper describes a cryptanalytic attack that allows for secret key recovery
+when observing ECDSA signatures that use a certain kind of structured nonce.
+Using the standard deterministic nonce construction avoids this attack.
