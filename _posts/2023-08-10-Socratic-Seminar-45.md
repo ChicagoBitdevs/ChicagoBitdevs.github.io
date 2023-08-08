@@ -25,6 +25,14 @@ Join us tomorrow night to talk about Script here at 6:30PM!
 
 **Credit:** Carla Kirk-Cohen, Michael Levin, Roasbeef
 
+## Drivechain analysis/critiques
+
+<https://blog.bitmex.com/drivechains/>
+
+<https://achimwarner.medium.com/thoughts-on-drivechain-ii-how-bad-is-mev-75da73969cef>
+
+**Credit:** BitMEX Research, Achim Warner
+
 ## Vyper bug
 
 >On the 30th of July, 2023, multiple Curve.Fi liquidity pools were exploited as a result of a latent vulnerability in the Vyper compiler, specifically in versions 0.2.15, 0.2.16, and 0.3.0. While bug was identified and patched by the v0.3.1 release, the impact to protocols using the vulnerable compilers was not realized at the time and they were not explicitly notified. The vulnerability itself was an improperly implemented re-entrancy guard that could be bypassed under certain conditions which we will delve into in this report.
