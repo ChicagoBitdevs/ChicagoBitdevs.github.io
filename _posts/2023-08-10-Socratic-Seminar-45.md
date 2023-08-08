@@ -16,10 +16,14 @@ Join us tomorrow night to talk about Script here at 6:30PM!
 ## LN Dev Summit 2023!
 
 >At the end of June we got together in NYC for the annual specification meeting.
+
 <https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004014.html>
 
-**Credit:** Carla Kirk-Cohen, Michael Levin
+### Taproot extension BOLT
 
+<https://github.com/lightning/bolts/blob/e95e7acbda14e07fa53c1389f952481b822db795/bolt-simple-taproot.md#abstract>
+
+**Credit:** Carla Kirk-Cohen, Michael Levin, Roasbeef
 
 ## Vyper bug
 
