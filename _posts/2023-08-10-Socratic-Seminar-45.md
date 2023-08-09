@@ -13,6 +13,16 @@ Join us tomorrow night to talk about Script here at 6:30PM!
 
 <https://www.meetup.com/chibitdevs/events/295035330/>
 
+## Milksad
+
+>On Libbitcoin Explorer 3.x versions, bx seed uses the Mersenne Twister pseudorandom number generator (PRNG) initialized with 32 bits of system time.
+
+>The main theft occurred around 12 July 2023, although initial exploitation likely began at a smaller scale in May 2023.
+
+<https://milksad.info/>
+
+**Credit:** David Harding
+
 ## LN Dev Summit 2023!
 
 >At the end of June we got together in NYC for the annual specification meeting.
