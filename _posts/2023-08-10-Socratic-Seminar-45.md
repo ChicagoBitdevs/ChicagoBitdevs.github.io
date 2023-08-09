@@ -15,6 +15,8 @@ Join us tomorrow night to talk about Script here at 6:30PM!
 
 ## Milksad
 
+Very similar to the Trust Wallet vuln discussed at May chibitdevs. 
+
 >On Libbitcoin Explorer 3.x versions, bx seed uses the Mersenne Twister pseudorandom number generator (PRNG) initialized with 32 bits of system time.
 
 >The main theft occurred around 12 July 2023, although initial exploitation likely began at a smaller scale in May 2023.
