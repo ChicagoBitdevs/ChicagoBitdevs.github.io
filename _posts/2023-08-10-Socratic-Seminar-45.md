@@ -25,6 +25,29 @@ Very similar to the Trust Wallet vuln discussed at May chibitdevs.
 
 **Credit:** David Harding
 
+## BitForge
+
+>The Fireblocks cryptography research team has uncovered BitForge – a series of zero-day vulnerabilities in some of the most widely adopted implementations of multi-party computation (MPC) protocols, including GG-18, GG-20, and Lindell17.
+
+### Summary of both vulns
+<https://www.fireblocks.com/blog/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/>
+
+### Abort Vulnerability
+
+>The exploit originates from Lindell17 implementations deviating from the specification of the academic paper and ignoring or mishandling aborts in case of failed signatures. Assuming privileged access on the part of the attacker, the vulnerability can be exploited to exfiltrate the key after approximately 200 signature requests. The vulnerability has been proven to be practical and validated on popular open source libraries and some real-world systems.
+
+<https://www.fireblocks.com/blog/lindell17-abort-vulnerability-technical-report>
+
+
+### Paillier Key Vulnerability
+
+>The vulnerability originates with parties not checking to see if the attacker’s Paillier modulus, denoted N, has small factors or that it is a biprime. If exploited, the vulnerability allows a threat actor interacting with the signatories in the MPC protocol to steal their secret shards and ultimately obtain the master secret key. The severity of the vulnerability depends on the implementation parameters, so different parameter choices give rise to different attacks with varying degrees of effort/resources required to extract the full key. Some implementations are vulnerable to key extraction in 16 signatures, while others could require as many as 1 billion signatures.
+
+<https://www.fireblocks.com/blog/gg18-and-gg20-paillier-key-vulnerability-technical-report>
+
+
+**Credit:** Fireblocks, ZenGo, Coinbase
+
 ## LN Dev Summit 2023!
 
 >At the end of June we got together in NYC for the annual specification meeting.
