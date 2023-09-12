@@ -36,6 +36,10 @@ Lighnting labs getting close to shipping 0.17.0 that contains the ability to cre
 
 >This release marks the first release that includes the new musig2-based taproot channel type. As new protocol feature hasn't yet been finalized, users must enable taproot channels with a new flag: --protocol.simple-taproot-chans. Once enabled, user MUST use the explicit channel type to request the taproot channel type (pending support by the remote peer). For lncli openchannel, --channel_type=taproot should be used.
 
+### PR on lnd repo
+
+<https://github.com/lightningnetwork/lnd/pull/7904>
+
 **Credit**: Lightning Labs
 
 ## Tor implements proof of work
