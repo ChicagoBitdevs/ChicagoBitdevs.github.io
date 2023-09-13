@@ -49,3 +49,19 @@ Previously discussed at Socratic Seminar 41.
 >Tor's PoW defense is a dynamic and reactive mechanism, remaining dormant under normal use conditions to ensure a seamless user experience, but when an onion service is under stress, the mechanism will prompt incoming client connections to perform a number of successively more complex operations. 
 
 <https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/>
+
+## Payjoin via relay infrastructure
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021868.html>
+
+**Credit:** Dan Gould
+
+This proposes a method for negotiating a payjoin without the receiver needing to operate an web server.  Instead users rely on untrusted relays.
+
+## Factory-optimized lightning channels
+
+<https://github.com/JohnLaw2/ln-factory-optimized>
+
+**Credit:** John Law
+
+This construction provides channel factories with some attractive properties, deployable today:  (1) shorter safe HTLC timeouts for payments across several hops and (2) HTLC resolution without closing the channel factory.
