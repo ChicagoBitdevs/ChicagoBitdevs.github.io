@@ -35,10 +35,14 @@ FinCEN is issuing a notice of proposed rulemaking (NPRM), pursuant to section 31
 
 <https://github.com/bitcoin/bitcoin/pull/27596>
 
+This changeset finishes the first phase of the assumeutxo project. It makes UTXO snapshots loadable via RPC (loadtxoutset) and adds assumeutxo parameters to chainparams. It contains all the remaining changes necessary to both use an assumedvalid snapshot chainstate and do a full validation sync in the background.
+
+### Design goals & FAQ of assumeutxo and its security model
+
+<https://github.com/jamesob/assumeutxo-docs/tree/2019-04-proposal/proposal>
+
 ### Optech explaination
 
 <https://bitcoinops.org/en/newsletters/2023/10/11/>
-
-Bitcoin Core #27596 finishes the first phase of the assumeutxo project, containing all the remaining changes necessary to both use an assumedvalid snapshot chainstate and do a full validation sync in the background. It makes UTXO snapshots loadable via RPC (loadtxoutset) and adds assumeutxo parameters to chainparams.
 
 **Credit: James Obeirne**
