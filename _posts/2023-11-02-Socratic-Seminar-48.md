@@ -46,3 +46,11 @@ This changeset finishes the first phase of the assumeutxo project. It makes UTXO
 <https://bitcoinops.org/en/newsletters/2023/10/11/>
 
 **Credit: James Obeirne**
+
+## Mutiny wallet's experience LN payment reliability
+
+<https://blog.mutinywallet.com/fixing-payment-reliability/>
+
+After a few months of testing, we've improved reliability +600% and can now hit most of our probing targets with 1,000,000 sats 95% of the time. Find out more about how we solved this problem on Lightning.
+
+**Credit: Mutiny Wallet Team**
