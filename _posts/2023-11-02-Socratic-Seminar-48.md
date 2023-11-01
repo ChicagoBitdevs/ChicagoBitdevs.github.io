@@ -58,3 +58,15 @@ This changeset finishes the first phase of the assumeutxo project. It makes UTXO
 After a few months of testing, we've improved reliability +600% and can now hit most of our probing targets with 1,000,000 sats 95% of the time. Find out more about how we solved this problem on Lightning.
 
 **Credit: Mutiny Wallet Team**
+
+## [bitcoin-dev] Proposed BIP for OP_CAT
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022049.html>
+
+OP_CAT was available in early versions of Bitcoin. It was disabled as
+it allowed the construction of a script whose evaluation could create
+stack elements exponential in the size of the script.
+
+**Credit: Ethan Heilman**
+
+
