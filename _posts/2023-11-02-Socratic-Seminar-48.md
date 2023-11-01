@@ -69,4 +69,12 @@ stack elements exponential in the size of the script.
 
 **Credit: Ethan Heilman**
 
+## Durabit
+
+<https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit>
+
+Introducing Durabit, a novel solution that leverages the power of Bitcoin to establish enduring incentive systems for continuous data distribution.
+
+**Credit: 4de67a207019fd4d855ef0a188b4519c**
+
 
