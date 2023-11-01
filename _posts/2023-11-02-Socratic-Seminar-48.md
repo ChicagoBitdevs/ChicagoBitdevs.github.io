@@ -27,7 +27,11 @@ It’s possible to use transaction replacement to remove one or more inputs of a
 
 <https://www.federalregister.gov/documents/2023/10/23/2023-23449/proposal-of-special-measure-regarding-convertible-virtual-currency-mixing-as-a-class-of-transactions>
 
-**Credit: Michael Matulef**
+### Shinobi's explaination
+
+<https://bitcoinmagazine.com/legal/fincen-proposes-insane-special-measures>
+
+**Credit: Michael Matulef, Shinobi**
 
 FinCEN is issuing a notice of proposed rulemaking (NPRM), pursuant to section 311 of the USA PATRIOT Act, that proposes requiring domestic financial institutions and domestic financial agencies to implement certain recordkeeping and reporting requirements relating to transactions involving convertible virtual currency (CVC) mixing.
 
