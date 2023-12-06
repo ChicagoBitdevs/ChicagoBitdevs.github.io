@@ -5,6 +5,12 @@ title: "Socratic Seminar 48"
 meetup: https://www.meetup.com/chibitdevs/events/293697302/
 ---
 
+## Bitcoin Core 26.0 released!
+
+<https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-December/000131.html>
+
+**Credit: Bitcoin Core Team**
+
 ## FINCEN proposes new regulations for cryptocurrencies
 
 <https://www.coincenter.org/its-time-to-have-the-conversation-is-the-bank-secrecy-act-unconstitutional/>
@@ -13,7 +19,7 @@ meetup: https://www.meetup.com/chibitdevs/events/293697302/
 
 Coincenter's legal argument to why the Bank Secrecy Act is unconstitutional. This is a potential legal strategy to stop the regulatory onslaught against cryptocurrency developers. We talked about FINCEN's rule making proposal last week, this could potentially be a legal strategy to make regulators be enforcers of the law, not writers _and_ enforcers of the law.
 
-## 10% performance improvement in libsecp256k1 by removing hand written assmebly
+## 10% performance improvement in libsecp256k1 by removing hand written assembly
 
 <https://github.com/bitcoin-core/secp256k1/pull/1446>
 
