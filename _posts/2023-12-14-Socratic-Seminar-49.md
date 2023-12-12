@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 48"
-meetup: https://www.meetup.com/chibitdevs/events/293697302/
+title: "Socratic Seminar 49"
+meetup: https://www.meetup.com/chibitdevs/events/293697307/
 ---
 
 ## Bitcoin Core 26.0 released!
