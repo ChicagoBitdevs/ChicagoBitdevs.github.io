@@ -33,12 +33,6 @@ Widely available versions of GCC and Clang beat our field asm on -O2. In particu
 
 **Credit: Bryan Bishop**
 
-Our current mailing list host, Linux Foundation, has indicated for years
-that they have wanted to stop hosting mailing lists, which would mean the
-bitcoin-dev mailing list would need to move somewhere else. We temporarily
-avoided that, but recently LF has informed a moderator that they will cease
-hosting any mailing lists later this year.
+Our current mailing list host, Linux Foundation, has indicated for years that they have wanted to stop hosting mailing lists, which would mean the bitcoin-dev mailing list would need to move somewhere else. We temporarily avoided that, but recently LF has informed a moderator that they will cease hosting any mailing lists later this year.
 
-In this email, we will go over some of the history, options, and invite
-discussion ahead of the cutoff. We have some ideas but want to solicit
-feedback and proposals.
+In this email, we will go over some of the history, options, and invite discussion ahead of the cutoff. We have some ideas but want to solicit feedback and proposals.
