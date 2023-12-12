@@ -11,13 +11,13 @@ meetup: https://www.meetup.com/chibitdevs/events/293697307/
 
 **Credit: Bitcoin Core Team**
 
-## FINCEN proposes new regulations for cryptocurrencies
+## The case that the bank secrecy act is unconstitutional
 
 <https://www.coincenter.org/its-time-to-have-the-conversation-is-the-bank-secrecy-act-unconstitutional/>
 
 **Credit: Coincenter**
 
-Coincenter's legal argument to why the Bank Secrecy Act is unconstitutional. This is a potential legal strategy to stop the regulatory onslaught against cryptocurrency developers. We talked about FINCEN's rule making proposal last week, this could potentially be a legal strategy to make regulators be enforcers of the law, not writers _and_ enforcers of the law.
+Coincenter's legal argument to why the Bank Secrecy Act is unconstitutional. This is a potential legal strategy to stop the regulatory onslaught against cryptocurrency developers. We talked about FINCEN's rule making proposal last time, this could potentially be a legal strategy to make regulators be enforcers of the law, not writers _and_ enforcers of the law.
 
 ## 10% performance improvement in libsecp256k1 by removing hand written assembly
 
