@@ -24,3 +24,21 @@ Measuring improvements in performance over the last year for various node implem
 <https://blog.lopp.net/2023-bitcoin-node-performance-tests/>
 
 **Credit: Lopp**
+
+## Maypoles
+
+The Lightning Network (LN) is a second layer solution built on top of
+Bitcoin, aimed to solve Bitcoin’s long transaction waiting times and high
+transaction fees. Empirical and theoretical studies show that the LN is
+tending towards the hub and spoke network topology. In this topology
+most of the nodes, the spokes, open a single channel to one of the few
+well-connected nodes, the hubs. This topology is known to be prone to
+failures, attacks, and privacy issues. In this work we introduce the May-
+poles protocol in which most nodes open two channels instead of one. We
+show that this protocol benefits the network significantly by enhancing its
+stability, privacy, and resilience to attacks. We also examine the economic
+incentives of nodes to take part in Maypoles.
+
+<https://eprint.iacr.org/2023/1964.pdf>
+
+**Credit: Clara Shikhelman**
