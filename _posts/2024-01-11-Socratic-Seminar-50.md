@@ -42,3 +42,29 @@ incentives of nodes to take part in Maypoles.
 <https://eprint.iacr.org/2023/1964.pdf>
 
 **Credit: Clara Shikhelman**
+
+## Aqua Wallet
+
+New btc + L-BTC + USDt + LN swaps wallet from JAN3.
+
+<https://aquawallet.io/>
+
+tldr: It's Muun but on Liquid.
+
+Design tradeoffs prioritize global adoption in a high fee environment.
+
+Basics:
+* Interoperable with LN but the user has no LN channels whatsoever
+* Balance is kept in self-custodied L-BTC via app's hot wallet
+* Sends and receives LN via Boltz swaps to L-BTC
+* Can swap L-BTC to USDt and back
+* Can send and receive like to like: L-BTC to L-BTC, USDt to USDt, btc to btc
+* Can peg-in/peg-out between btc and L-BTC
+* Interoperates with Ethereum USDt and Tron USDt
+
+Discussion points:
+* "self-custody" on a federated side chain...
+* Samson Mow: "AQUA will be open-source. We just haven’t gotten around to it yet" 😕 <https://twitter.com/Excellion/status/1742847525177131017>
+* Boltz swaps taking 0-conf risks
+* btc "Savings Account"... in a hot wallet?
+* Global south hodling on Liquid?
