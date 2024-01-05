@@ -15,6 +15,10 @@ Cluster mempool is a proposal to associate each unconfirmed transaction in a mem
 
 <https://bitcoinops.org/en/podcast/2023/12/07/>
 
+### Defintions
+
+<https://delvingbitcoin.org/t/cluster-mempool-definitions-theory/202>
+
 **Credit: Pieter Wuille, Suhas Daftuar**
 
 ## Node performance tests
