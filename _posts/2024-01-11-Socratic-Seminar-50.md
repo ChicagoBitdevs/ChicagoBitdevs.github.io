@@ -11,7 +11,7 @@ Cluster mempool is a proposal to associate each unconfirmed transaction in a mem
 
 <https://bitcoinops.org/en/topics/cluster-mempool/>
 
-<https://docs.google.com/presentation/d/1Jl6VDNismGKEeVI7MxWsi0PW9pfNfKzOe1KdbH94QYw/edit#slide=id.p>
+<https://github.com/bitcoin/bitcoin/issues/27677>
 
 <https://bitcoinops.org/en/podcast/2023/12/07/>
 
