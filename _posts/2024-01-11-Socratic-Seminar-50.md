@@ -15,7 +15,7 @@ Cluster mempool is a proposal to associate each unconfirmed transaction in a mem
 
 <https://bitcoinops.org/en/podcast/2023/12/07/>
 
-### Defintions
+### Definitions
 
 <https://delvingbitcoin.org/t/cluster-mempool-definitions-theory/202>
 
@@ -72,3 +72,7 @@ Discussion points:
 * Boltz swaps taking 0-conf risks
 * btc "Savings Account"... in a hot wallet?
 * Global south hodling on Liquid?
+
+## Tidwell Game presentation
+
+* TODO: Add details
