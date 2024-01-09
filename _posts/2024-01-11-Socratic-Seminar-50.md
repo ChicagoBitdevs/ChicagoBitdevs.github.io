@@ -72,3 +72,21 @@ Discussion points:
 * Boltz swaps taking 0-conf risks
 * btc "Savings Account"... in a hot wallet?
 * Global south hodling on Liquid?
+
+## Runes
+
+Basics:
+* Made/proposed by [Casey](https://twitter.com/rodarmor) the guy who came up with ordinals.
+* There has been multiple tokens on BTC. We'll do a quickie on XCP, OMNI, Ordinals, Inscriptions, BRC-20.
+* Runes are essentially just a better alternative to BRC-20.
+* On-chain, which means it doesn't scale.
+
+Discussion points:
+- Any viability or usecase for these things?
+- Spam on the blockchian?
+- Who and why are people using this?
+
+Informational links:
+* https://twitter.com/mononautical/status/1732224537230741562
+* https://github.com/ordinals/ord/blob/d791800fa438469ac8102f8f972e2a1e99b16bd4/src/index/updater/rune_updater.rs#L45
+* https://bitcoinmagazine.com/technical/runes-an-attempt-at-a-serious-protocol-or-another-childrens-toy
