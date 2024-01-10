@@ -92,3 +92,13 @@ Informational links:
 * https://twitter.com/mononautical/status/1732224537230741562
 * https://github.com/ordinals/ord/blob/d791800fa438469ac8102f8f972e2a1e99b16bd4/src/index/updater/rune_updater.rs#L45
 * https://bitcoinmagazine.com/technical/runes-an-attempt-at-a-serious-protocol-or-another-childrens-toy
+
+## core-untouched soft fork
+
+A novel approach to forming consensus without changing bitcoin core.
+By adding another program to invalidate blocks and form a mempool;
+51% of miners can upgrade consensus rules by adding a module/monitor(softfork rule).
+
+<https://x.com/Truthcoin/status/1743073625328992679?s=20>
+
+**Credit: Paul Sztorc**
