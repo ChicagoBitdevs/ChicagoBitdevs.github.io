@@ -55,6 +55,8 @@ New btc + L-BTC + USDt + LN swaps wallet from JAN3.
 
 tldr: It's Muun but on Liquid.
 
+Adam Back: https://twitter.com/adam3us/status/1739030646515794222
+
 Design tradeoffs prioritize global adoption in a high fee environment.
 
 Basics:
@@ -68,8 +70,8 @@ Basics:
 
 Discussion points:
 * "self-custody" on a federated side chain...
-* Samson Mow: "AQUA will be open-source. We just haven’t gotten around to it yet" 😕 <https://twitter.com/Excellion/status/1742847525177131017>
-* Boltz swaps taking 0-conf risks
+* [Not (yet) open source](https://twitter.com/Excellion/status/1742847525177131017)
+* [Boltz swaps taking 0-conf risks](https://twitter.com/Boltzhq/status/1742962091378548920)
 * btc "Savings Account"... in a hot wallet?
 * Global south hodling on Liquid?
 
