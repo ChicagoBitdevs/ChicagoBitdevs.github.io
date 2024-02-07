@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 51"
-meetup: https://www.meetup.com/chibitdevs/events/296280008/ 
+meetup: https://www.meetup.com/chibitdevs/events/296280008/
 ---
 
 ## 64 bit arithmetic soft fork
@@ -22,7 +22,7 @@ to convert existing bitcoin protocol numbers (CScriptNum) into 4 and 7 byte litt
 
 **Credit: Andrew Poelstra, Sanket Kanjalkar, Chris Stewart**
 
-## Btcd consensus bugs due to usage of signed transaction version 
+## Btcd consensus bugs due to usage of signed transaction version
 
 Btcd used the signed transaction version in both the BIP 68 5 and BIP 112 1 logic without a prior cast to uint32. As consequence, transactions with negative versions are incorrectly treated as not enforcing the BIP 68 rules or incorrectly rejected for use of OP_CHECKSEQUENCEVERIFY (BIP 112).
 
@@ -39,3 +39,17 @@ Btcd used the signed transaction version in both the BIP 68 5 and BIP 112 1 logi
 <https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022289.html>
 
 **Credit: ajtowns**
+
+## Coinjoin & Payjoin UI/UX 
+
+**Credit: KeithM**
+
+Recent work adding coinjoin & payjoin support to SeedSigner holds lessons about bitcoin wallet UI/UX.
+
+## Citrea
+
+<https://github.com/chainwayxyz>
+
+<https://chainway.xyz>
+
+This project illustrates how the engineering efforts going into ZK rollups on other blockchains like Ethereum can apply with BitVM to produce a rollup system on Bitcoin.
