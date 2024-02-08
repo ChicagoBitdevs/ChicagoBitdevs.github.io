@@ -45,6 +45,9 @@ Btcd used the signed transaction version in both the BIP 68 5 and BIP 112 1 logi
 **Credit: KeithM**
 
 Recent work adding coinjoin & payjoin support to SeedSigner holds lessons about bitcoin wallet UI/UX.
+* Quick review of payjoin & coinjoin tx structure
+* Critique how retail signing devices currently handle them
+* Preview SeedSigner work-in-progress improvements
 
 ## Citrea
 
