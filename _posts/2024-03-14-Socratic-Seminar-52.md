@@ -5,22 +5,11 @@ title: "Socratic Seminar 52"
 meetup: https://www.meetup.com/chibitdevs/events/296280008/
 ---
 
-## 64 bit arithmetic soft fork
+## New BIP editor discussion continues 
 
-This BIP describes a new set of arithmetic opcodes (OP_ADD64, OP_SUB64, OP_MUL64, OP_DIV64, OP_NEG64,
-OP_LESSTHAN64, OP_LESSTHANOREQUAL64, OP_GREATERTHAN64, OP_GREATERTHANOREQUAL64)
-that allows 64 bit signed integer math in the bitcoin protocol.
+Reuben Somsen and Kanzure are emerging as candidates for new BIP editors.
 
-This BIP also describes a set of conversion opcodes (OP_SCRIPTNUMTOLE64, OP_LE64TOSCRIPTNUM, OP_LE32TOLE64)
-to convert existing bitcoin protocol numbers (CScriptNum) into 4 and 7 byte little endian representations.
-
-<https://github.com/bitcoin/bips/pull/1538>
-
-<https://github.com/bitcoin/bitcoin/pull/29221>
-
-<https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397>
-
-**Credit: Andrew Poelstra, Sanket Kanjalkar, Chris Stewart**
+<https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA/m/vUd1mh9kAgAJ>
 
 ## Bitcoin Core Dev Feedback Survey
 
@@ -30,3 +19,9 @@ Below is a summary of the results.
 <https://adamjonas.com/bitcoin/coredev/retro/coredev-2023-retro/>
 
 **Credit: Adam Jonas**
+
+## Here’s Some Bitcoin: Oh, and You’ve Been Served!
+
+>A California man who lost $100,000 in a 2021 SIM-swapping attack is suing the unknown holder of a cryptocurrency wallet that harbors his stolen funds. The case is thought to be the first in which a federal court has recognized the use of information included in a bitcoin transaction — such as a link to a civil claim filed in federal court — as reasonably likely to provide notice of the lawsuit to the defendant. Experts say the development could make it easier for victims of crypto heists to recover stolen funds through the courts without having to wait years for law enforcement to take notice or help.
+
+<https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/>
