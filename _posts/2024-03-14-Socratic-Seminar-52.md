@@ -27,3 +27,19 @@ Below is a summary of the results.
 <https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/>
 
 <https://mempool.space/address/bc1qjp79ak6fxm4h7j0tsrwqx2n2k4tcqqveqxrvgm>
+
+## Spaces protocol
+
+> Spaces is a naming protocol that leverages the existing infrastructure and security of Bitcoin1 without requiring a new blockchain or any modifications to Bitcoin itself. “Spaces” serve as community identifiers that are distributed through an auction process built using existing Bitcoin scripting capabilities. Proceeds generated through auctions are irrevocably burned. Within each Space, users can create “Subspaces,” which serve as trustless individual identities, operating with a high degree of autonomy primarily off-chain but can also submit transactions directly on-chain. Spaces is designed to be verifiable by end-users in a trustless manner without requiring a full node.
+
+<https://spacesprotocol.org/>
+
+<https://github.com/spacesprotocol>
+
+## Basic vault prototype using OP_CAT
+
+An example of how to use `OP_CAT` based transaction introspection to implement a very basic vault. 
+
+<https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat/576>
+
+<https://github.com/taproot-wizards/purrfect_vault>
