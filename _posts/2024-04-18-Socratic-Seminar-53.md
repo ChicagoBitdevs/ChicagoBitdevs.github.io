@@ -5,7 +5,7 @@ title: "Socratic Seminar 53"
 meetup: https://www.meetup.com/chibitdevs/events/299962539/
 ---
 
-## The halving algorithm! 
+## The halving algorithm!
 
 A step by step walkthrough for how the halving algorithm works in the bitcoin protocol
 
@@ -25,13 +25,13 @@ A step by step walkthrough for how the halving algorithm works in the bitcoin pr
 
 <https://github.com/bitcoin/bitcoin/pull/3842>
 
-**Credit:** Pieter Wuille, ditto-b 
+**Credit: Pieter Wuille, ditto-b**
 
-## Discussion: OSSification of the bitcoin protocol 
+## Discussion: OSSification of the bitcoin protocol
 
-A prominent community has allegedly advocated against ETF providers from giving a portion of their profits to bitcoin developers. 
+A prominent community has allegedly advocated against ETF providers from giving a portion of their profits to bitcoin developers.
 
-Is this a reasonable / unreasonable stance and should we as a community push back against it? 
+Is this a reasonable / unreasonable stance and should we as a community push back against it?
 
 ## Worst case block validation time
 
@@ -41,4 +41,4 @@ Is this a reasonable / unreasonable stance and should we as a community push bac
 
 >It’s bad. The worst block i could come up with takes around 3 minutes to validate with all 16 cores of my modern laptop’s CPU and a hour and a half of a RPi4. For obvious reasons i’ve redacted here the details of such block, as well as the various approaches to create similarly expensive-to-validate blocks. I’ll share them in a semi-private companion post to other protocol developers using the private working group feature of Delving. If you think you should be in this working group and i forgot to add you, let me know.
 
-**Credit:** Antoine Poisont, Matt Corallo
+**Credit: Antoine Poisont, Matt Corallo**
