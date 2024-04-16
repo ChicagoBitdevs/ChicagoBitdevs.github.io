@@ -32,3 +32,13 @@ A step by step walkthrough for how the halving algorithm works in the bitcoin pr
 A prominent community has allegedly advocated against ETF providers from giving a portion of their profits to bitcoin developers. 
 
 Is this a reasonable / unreasonable stance and should we as a community push back against it? 
+
+## Worst case block validation time
+
+<https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710#worst-case-block-validation-time-5>
+
+>It’s well known maliciously crafted non-Segwit transactions can be pretty expensive to validate. Large block validation times could give attacking miners an unfair advantage, hinder block propagation (and its uniformity) across the network or even have detrimental consequences on software relying on block availability. To this effect the Great Consensus Cleanup proposal includes a number of additional constraints on legacy Script usage.
+
+>It’s bad. The worst block i could come up with takes around 3 minutes to validate with all 16 cores of my modern laptop’s CPU and a hour and a half of a RPi4. For obvious reasons i’ve redacted here the details of such block, as well as the various approaches to create similarly expensive-to-validate blocks. I’ll share them in a semi-private companion post to other protocol developers using the private working group feature of Delving. If you think you should be in this working group and i forgot to add you, let me know.
+
+**Credit:** Antoine Poisont, Matt Corallo
