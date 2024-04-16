@@ -42,3 +42,11 @@ Is this a reasonable / unreasonable stance and should we as a community push bac
 >It’s bad. The worst block i could come up with takes around 3 minutes to validate with all 16 cores of my modern laptop’s CPU and a hour and a half of a RPi4. For obvious reasons i’ve redacted here the details of such block, as well as the various approaches to create similarly expensive-to-validate blocks. I’ll share them in a semi-private companion post to other protocol developers using the private working group feature of Delving. If you think you should be in this working group and i forgot to add you, let me know.
 
 **Credit: Antoine Poisont, Matt Corallo**
+
+## Discussion: Block height 840,000 : The most valuable block ever?
+
+Could we see the "Mother of all reorgs"? - With the Ordinals protocol and token primitives like Runes, the subjective valuation of block height 840,000 could be orders of magnitude more than any other block before it. Will this potential MEV lead to multiple reorgs? 
+
+<https://www.coindesk.com/consensus-magazine/2024/03/19/the-bitcoin-halving-really-is-different-this-time/>
+
+**Credit: Daniel Kuhn**
