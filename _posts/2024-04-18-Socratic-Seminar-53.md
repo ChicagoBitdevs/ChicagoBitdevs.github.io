@@ -50,3 +50,18 @@ Could we see the "Mother of all reorgs"? - With the Ordinals protocol and token 
 <https://www.coindesk.com/consensus-magazine/2024/03/19/the-bitcoin-halving-really-is-different-this-time/>
 
 **Credit: Daniel Kuhn**
+
+## XZ backdoor
+
+<https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/>
+
+The most sophisticated and effective backdoor known to date was discovered before it was widely deployed.
+
+**Credit: Andres Freund**
+
+### Bitcoin Core build process
+
+<https://github.com/bitcoin/bitcoin/blob/master/doc/release-process.md#building>
+
+Bitcoin Core makes use of Guix, a system for achieving bit-wise equal build artifacts with a minimal set of non-source inputs.
+>>>>>>> 5b2c8a6 (Adds April topics)
