@@ -64,4 +64,3 @@ The most sophisticated and effective backdoor known to date was discovered befor
 <https://github.com/bitcoin/bitcoin/blob/master/doc/release-process.md#building>
 
 Bitcoin Core makes use of Guix, a system for achieving bit-wise equal build artifacts with a minimal set of non-source inputs.
->>>>>>> 5b2c8a6 (Adds April topics)
