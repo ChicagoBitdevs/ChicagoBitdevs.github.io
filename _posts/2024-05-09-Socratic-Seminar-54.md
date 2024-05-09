@@ -25,6 +25,16 @@ JoinMarket is a P2P coinjoin system, where users select coinjoin counterparties 
 
 ## Mining landscape post-halving
 
+<https://data.hashrateindex.com/network-data/btc>
+
+<https://mempool.space/graphs/mining/block-sizes-weights#1m>
+
+<https://mempool.space/graphs/mining/hashrate-difficulty>
+
+<https://data.hashrateindex.com/stock-index>
+
+<https://cryptoslate.com/mining-firm-stronghold-considering-sale-of-company-in-latest-financial-report/>
+
 ## Great Script Restoration Project
 
 Rusty Russel has a strategy for restoring many opcodes that were disabled early in bitcoin's history due to DoS fears.
