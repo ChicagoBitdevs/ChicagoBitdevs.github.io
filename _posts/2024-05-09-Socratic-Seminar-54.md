@@ -23,6 +23,16 @@ JoinMarket is a P2P coinjoin system, where users select coinjoin counterparties 
 
 <https://github.com/JoinMarket-Org/joinmarket-clientserver>
 
+## Mining landscape post-halving
+
+## Great Script Restoration Project
+
+Rusty Russel has a strategy for restoring many opcodes that were disabled early in bitcoin's history due to DoS fears.
+
+<https://github.com/rustyrussell/bips/commit/c2f268e83031b9b67e798c5c72a1171bfc463d1f>
+
+[btc++ conference talk](https://www.youtube.com/watch?v=rSp8918HLnA)
+
 ## Bitcoin core 27.0
 
 - BIP324 encrypted transport on by default
