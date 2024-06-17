@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 54"
-meetup: https://www.meetup.com/chibitdevs/events/300016348/
+title: "Socratic Seminar 55"
+meetup: hhttps://www.meetup.com/chibitdevs/events/300389281/
 ---
 
 ## 27.1 Release candiates
