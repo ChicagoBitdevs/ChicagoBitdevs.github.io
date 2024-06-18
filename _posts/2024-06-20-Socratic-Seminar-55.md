@@ -5,9 +5,11 @@ title: "Socratic Seminar 55"
 meetup: hhttps://www.meetup.com/chibitdevs/events/300389281/
 ---
 
-## 27.1 Release candiates
+## 27.1 Bitcoin Core Release
 
-<https://github.com/bitcoin/bitcoin/blob/fccd32efe6e2950b2c74fdec2ade54040ca32a2c/doc/release-notes.md>
+<https://bitcoincore.org/bin/bitcoin-core-27.1/>
+
+<https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-27.1.md>
 
 ## Cluster Mempool Updates
 
@@ -29,3 +31,9 @@ Issue tracking individual PRs that merge clustermempool infrastructure into mast
 ### Unmaintained forks of BTC vulnerable
 
 <https://github.com/dogecoin/dogecoin/issues/3556>
+
+## Lnd Vulnerability Disclosed: DoS Onion Bomb
+
+>LND versions prior to 0.17.0 are vulnerable to a DoS attack where malicious onion packets cause the node to instantly run out of memory (OOM) and crash. If you are running an LND release older than this, your funds are at risk! Update to at least 0.17.0 to protect your node.
+
+<https://morehouse.github.io/lightning/lnd-onion-bomb/>
