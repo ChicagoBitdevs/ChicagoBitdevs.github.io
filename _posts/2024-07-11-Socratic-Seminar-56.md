@@ -26,3 +26,25 @@ meetup: https://www.meetup.com/chibitdevs/events/300730503/
 >We can see they're pretty much neck and neck until block ~485,000 which takes my machine 100 minutes to reach. After that point, the large dbcache performance breaks away and never looks back. If I were to speculate as to why, my bet is that the default 450MB dbcache doesn't fill up until you hit that part of the blockchain, so after that point the default sync will start flushing the chainstate to disk regularly, thus slowing down the sync.
 
 <https://blog.lopp.net/effects-dbcache-size-bitcoin-node-sync-speed/>
+
+## Concurrently secure blind signatures
+
+<https://eprint.iacr.org/2022/1676>
+
+In order for a blind signing service to scale up to anything like internet scale, it must be able to service requests concurrently.  The original blind signing protocol and many variants are vulnerable to an attack where the attacker opens many sessions and ends up being able to forge a signature on a chosen message.
+
+## Silent payments
+
+<https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki>
+
+<https://silentpayments.xyz/>
+
+Silent payments are a technique for generating addresses for a user non-interactively, which can still be detected by wallet software.
+
+## FROST updates
+
+<https://www.rfc-editor.org/rfc/rfc9591.html>
+
+<https://github.com/BlockstreamResearch/bip-frost-dkg>
+
+FROST is a threshold signature protocol for producing Schnorr signatures.  It now has an RFC and a proposal for a secure setup that avoids a trusted coordinator.
