@@ -50,8 +50,12 @@ Issue tracking individual PRs that merge clustermempool infrastructure into mast
 
 <https://github.com/bitcoin/bips/blob/master/bip-0431.mediawiki>
 
-### TRUC transactions now standardness now merged into bitcoin core!
+### TRUC transactions (v3 transactions) will be standard in bitcoin core v28 !
 
 <https://github.com/bitcoin/bitcoin/pull/29496>
 
 <https://github.com/bitcoin/bitcoin/pull/30272>
+
+## Kraken Security Incident
+
+<https://x.com/c7five/status/1803403565865771370>
