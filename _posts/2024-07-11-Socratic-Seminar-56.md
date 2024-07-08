@@ -20,3 +20,9 @@ meetup: https://www.meetup.com/chibitdevs/events/300389281/
 ## Miners keeping list of compromised addresses to increase fees?
 
 <https://x.com/mononautical/status/1800496416252743919>
+
+## Effects of -dbcache on initial block download
+
+>We can see they're pretty much neck and neck until block ~485,000 which takes my machine 100 minutes to reach. After that point, the large dbcache performance breaks away and never looks back. If I were to speculate as to why, my bet is that the default 450MB dbcache doesn't fill up until you hit that part of the blockchain, so after that point the default sync will start flushing the chainstate to disk regularly, thus slowing down the sync.
+
+<https://blog.lopp.net/effects-dbcache-size-bitcoin-node-sync-speed/>
