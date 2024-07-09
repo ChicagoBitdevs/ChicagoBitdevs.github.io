@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 56"
-meetup: https://www.meetup.com/chibitdevs/events/300389281/
+meetup: https://www.meetup.com/chibitdevs/events/300730503/
 ---
 
 ## Disclosure of vulnerabilities affecting Bitcoin Core versions before 0.21.x
