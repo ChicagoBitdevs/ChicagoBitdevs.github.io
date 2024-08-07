@@ -44,3 +44,9 @@ With a stable channel client, two users can rapidly settle a contract for differ
 <https://github.com/bitcoin/bitcoin/pull/30493#issuecomment-2260918779>
 
 @gmaxwell observes a big increase in the rate at which nodes have all the transactions mentioned in compact blocks when full-RBF is enabled vs. when it is not.
+
+# Mutiny Wallet shutting down
+
+<https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/>
+
+"tldr: Our company is exploring alternative products, we'll be shutting down the wallet at the end of the year but you can still self host."
