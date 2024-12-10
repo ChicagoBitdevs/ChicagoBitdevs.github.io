@@ -27,10 +27,10 @@ Entry point:
 
 Related specifications:
 
-<https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki>
-<https://github.com/bitcoin/bips/blob/master/bip-0348.md>
-<https://github.com/bitcoin/bips/blob/master/bip-0349.md>
-<https://github.com/bitcoin/bips/pull/1699>
+* <https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki>
+* <https://github.com/bitcoin/bips/blob/master/bip-0348.md>
+* <https://github.com/bitcoin/bips/blob/master/bip-0349.md>
+* <https://github.com/bitcoin/bips/pull/1699>
 
 Covenant support by prominent developers:
 
