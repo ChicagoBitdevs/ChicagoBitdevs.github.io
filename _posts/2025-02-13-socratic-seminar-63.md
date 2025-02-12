@@ -14,7 +14,7 @@ meetup: https://www.meetup.com/chibitdevs/events/305051288/
 <https://www.nobsbitcoin.com/opensats-grants-support-for-three-bitcoin-core-contributors/>
 <https://www.nobsbitcoin.com/opensats-9th-wave-of-bitcoin-grants-kibo-el-tor-nustash-rust-bitcoin/>
 
-Thank you & congradulations for your efforts to chicago's own KevKev!
+Thank you & congratulations for your efforts to chicago's own KevKev!
 
 ## 256 Foundation's Telehash fundraiser finds block, funds 5 projects
 <https://xcancel.com/econoalchemist/status/1884816944936714254>
