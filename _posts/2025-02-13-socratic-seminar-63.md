@@ -35,7 +35,11 @@ Ross Ulbricht founded Silk Road, an early dark web platform that facilitated the
 
 Alexey Pertsev, the developer behind the controversial crypto-mixing platform Tornado Cash, has been released from pretrial detention after spending nine months in a Dutch prison.
 
+## ¡¡SeedSigner EN ESPAÑOL!!
 
+<https://github.com/SeedSigner/seedsigner/releases/tag/0.8.5>
+
+Version 8.5 now supports spanish, with systems in place to add other languages. Other additions include development infustructure, p2tr address verification, & additional CI testing.
 
 
 © 2025 GitHub, Inc.
