@@ -39,10 +39,7 @@ Doors open at 6pm with discussion starting shortly after!
 #### Extra References
 
 [Bitcoin Mailing List Discussion](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)  
-[Visuals from 0x_orkun](https://x.com/0x_orkun/status/1918395689505308971)  
-[interview with bitcoin maintainer glozow on why strong mempool is important](https://x.com/brian_trollz/status/1909721725245284665)  
-[Open source is neither a community nor a democracy by DHH](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)  
-[play by play of drama by cbspears](https://x.com/cbspears/status/1917320208483578277)
+[Visuals from 0x_orkun](https://x.com/0x_orkun/status/1918395689505308971)
 
 ## OP_CHECKCONTRACTVERIFY
 
