@@ -29,3 +29,12 @@ Block earned a 9.7% yield on its Bitcoin by routing payments through the Lightni
 
 Block announced it will launch bitcoin payments on Square, marking a significant milestone in making bitcoin more accessible and usable.  
 [Block to roll out bitcoin payments on Square](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square)
+
+### Quantam Computing and Bitcoin
+
+There has been an increase in mailing list posts about Bitcoin and its relationship to quantum computing.
+[Bitcoin-dev project: Bitcoin and Quantum Computing](https://x.com/Bitcoin_Devs/status/1929509963115667569)
+[Jameson Lopp: Against Allowing Quantum Recovery of Bitcoin](https://groups.google.com/g/bitcoindev/c/uUK6py0Yjq0)
+[Bas Westerbaan: jpeg resistance of various post-quantum signature schemes](https://groups.google.com/g/bitcoindev/c/5Ff0jdQPofo)
+[Tadge Dryja: Post-Quantum commit / reveal Fawkescoin variant as a soft fork](https://groups.google.com/g/bitcoindev/c/LpWOcXMcvk8)
+[Martin Habovštiak: Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
