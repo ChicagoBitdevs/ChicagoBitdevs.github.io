@@ -44,6 +44,6 @@ There has been an increase in mailing list posts about Bitcoin and its relations
 Bitcoin Core statement on the relationship between Bitcoin Core development and transaction relay policy on the network.  
 [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)  
 
-## CTV=CSFS letter
+## CTV-CSFS letter
 
 [ctv-csfs letter](https://ctv-csfs.com/)  
