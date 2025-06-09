@@ -38,3 +38,12 @@ There has been an increase in mailing list posts about Bitcoin and its relations
 [Bas Westerbaan: jpeg resistance of various post-quantum signature schemes](https://groups.google.com/g/bitcoindev/c/5Ff0jdQPofo)  
 [Tadge Dryja: Post-Quantum commit / reveal Fawkescoin variant as a soft fork](https://groups.google.com/g/bitcoindev/c/LpWOcXMcvk8)  
 [Martin Habovštiak: Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)  
+
+## Bitcoin Core Relay Policy Statement
+
+Bitcoin Core statement on the relationship between Bitcoin Core development and transaction relay policy on the network.  
+[Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)  
+
+## CTV=CSFS letter
+
+[ctv-csfs letter](https://ctv-csfs.com/)  
