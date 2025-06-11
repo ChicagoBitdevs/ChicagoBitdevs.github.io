@@ -13,6 +13,16 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
+## OP_RETURN Relay Policy Changes Merged
+
+Bitcoin Core has merged PR #32406 which updates relay policy to:
+- uncap the OP_RETURN data size limit, previously set to 80 bytes
+- allow multiple OP_RETURN outputs in a single transaction
+- marks `-datacarrier` and `-datacarriersize` options as deprecated (but does not remove them)
+
+This change will be included in Bitcoin Core v30.  
+[[PR #32406] policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
+
 ## Partnership with Antpool, F2Pool, and SpiderPool supports non-standard transactions
 
 Bitlayer has partnered with major Bitcoin mining pools to promote the adoption of BitVM, a technology enabling Bitcoin-native DeFi.  
