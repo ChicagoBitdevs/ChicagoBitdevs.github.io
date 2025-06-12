@@ -57,3 +57,9 @@ Bitcoin Core statement on the relationship between Bitcoin Core development and 
 ## CTV-CSFS letter
 
 [ctv-csfs letter](https://ctv-csfs.com/)  
+
+## Broadcast own transactions only via short-lived Tor or I2P connections
+
+To improve privacy, broadcast locally submitted transactions (from the sendrawtransaction RPC) to the P2P network only via Tor or I2P short-lived connections, or to IPv4/IPv6 peers but through the Tor network.  
+[link to PR](https://github.com/bitcoin/bitcoin/pull/29415)  
+[@kdmukai summary](https://github.com/bitcoin/bitcoin/pull/29415#issuecomment-2956055221)
