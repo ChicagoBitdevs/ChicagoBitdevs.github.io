@@ -13,8 +13,13 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
-## Add Topic here
+## Presentation (Bold Bitcoin Wallet BBW)
 
-Topic desc:
+A multi-party computation (MPC) threshold signature schemes (TSS) wallet.  
+(over local LAN and over NOSTR)
 
-[text for link](link)
+It's not a cold wallet, nor a hot wallet. It's a warm wallet with multisig, but all TX are single sig.  
+It allows multiple phones to create wallets with keyshares, and requires majority of participants to sign transactions.
+
+[Mobile Wallet](https://github.com/BoldBitcoinWallet/BoldWallet)  
+[Library](https://github.com/BoldBitcoinWallet/BBMTLib)
