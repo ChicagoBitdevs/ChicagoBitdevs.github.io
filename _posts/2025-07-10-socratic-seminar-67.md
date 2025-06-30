@@ -23,3 +23,10 @@ It allows multiple phones to create wallets with keyshares, and requires majorit
 
 [Mobile Wallet](https://github.com/BoldBitcoinWallet/BoldWallet)  
 [Library](https://github.com/BoldBitcoinWallet/BBMTLib)
+
+## Frostsnap
+
+A new type of hardware wallet using FROST (Flexible Round-Optimized Schnorr Threshold Signatures)
+
+[Frostsnap website](https://frostsnap.com/)
+[FROST whitepaper](https://eprint.iacr.org/2020/852.pdf?ref=glossary.blockstream.com)
