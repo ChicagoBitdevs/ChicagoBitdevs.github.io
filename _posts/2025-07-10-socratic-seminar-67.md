@@ -42,3 +42,8 @@ Bitcoin 28.2 has been released.
 This release includes new features, various bug fixes and performance improvements, as well as updated translations.
 
 [Release Page](https://bitcoincore.org/en/releases/28.2/)
+
+## Augur: An Open Source Bitcoin Fee Estimation Library
+
+This is a fee estimation library that was open sourced by Block which they use for their own fee estimation
+[Blog Post](https://engineering.block.xyz/blog/augur-an-open-source-bitcoin-fee-estimation-library)
