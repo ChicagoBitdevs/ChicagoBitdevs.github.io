@@ -47,3 +47,44 @@ This release includes new features, various bug fixes and performance improvemen
 
 This is a fee estimation library that was open sourced by Block which they use for their own fee estimation
 [Blog Post](https://engineering.block.xyz/blog/augur-an-open-source-bitcoin-fee-estimation-library)
+
+## Scaling Noncustodial Mining Payouts with CTV
+
+Delving post by [vnprc](https://delvingbitcoin.org/u/vnprc) about the potential of CTV to improve non-custodial mining payouts.
+
+[Scaling Noncustodial Mining Payouts with CTV](https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv/1753)
+
+## 2 Core Developers Post to Mailing List about Supporting CTV and CSFS
+
+'In conclusion, we believe the bundle of capabilities "commitment to the transaction spending an output" and "BIP340
+signature verification of arbitrary message" to be the best direction for Bitcoin to take. These are well-understood,
+simple capabilities, substantially improving an existing well-understood approach to scaling Bitcoin payments. This
+direction does not preclude research into more advanced capabilities, though questions remain about their overall
+desirability.'
+
+-[@darosior](https://x.com/darosior) & [@theinstagibbs](https://x.com/theinstagibbs)
+
+[Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
+
+## Sub-1 Sat/vB Summer ☀️⛱️
+
+Transactions below 1 sat/vb have been getting successfully relayed across the network and mined by spider pool.
+
+-   [opentimestamps got 0.12 sat/vb](https://x.com/91xTx93x3/status/1935714446971744749)
+-   [4KB file got 0.11 sat/vb](https://x.com/ottosch_/status/1935712233230639176)
+-   [mononaut got 0.1 sat/vb](https://x.com/mononautical/status/1931512028444656117)
+-   [346 kb inscription got 0.1 sat/vb](https://x.com/DegentClub/status/1936115343891575200)
+-   [mempool adds decimal point to fee rates](https://x.com/rot13maxi/status/1940149326984200342)
+
+## Cryptocurrency Consideration for Mortgage Risk Assessment
+
+"After significant studying, and in keeping with President Trump’s vision to make the United States the crypto capital of the world, today I ordered the Great Fannie Mae and Freddie Mac to prepare their businesses to count cryptocurrency as an asset for a mortgage."
+-Pulte, U.S. Director of Federal Housing FHFA
+
+[Directive to Consider Cryptocurrency as Asset in Risk Assessment](https://x.com/pulte/status/1937944964656152800)
+
+## Pakistan’s Strategic Bitcoin Reserve
+
+"A strategic Bitcoin reserve is a step in the right direction for Pakistan, but only mass adoption will truly unlock the immense potential Bitcoin can offer." -[Ghaffar Hussain](https://x.com/GhaffarBTC)
+
+[Pakistan’s Strategic Bitcoin Reserve: A Step Toward Orange-Pilling a Nation?](https://bitcoinmagazine.com/politics/pakistans-strategic-bitcoin-reserve-a-step-toward-orange-pilling-a-nation)
