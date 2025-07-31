@@ -47,3 +47,10 @@ beyond increasing the cost of validation. Bitcoin Core PR #32521 implements this
 hope to get into the upcoming 30.0 release as well as backported to previous versions."
 
 [Mailing list post](https://groups.google.com/g/bitcoindev/c/u2Bz1Ms8_lA)
+
+## [BIP Proposal] Utreexo nodes
+
+This is a formalized BIP for Utreexo nodes
+
+[Mailing list Post](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
+[BIP Link](https://github.com/utreexo/biptreexo)
