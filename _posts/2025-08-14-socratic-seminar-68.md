@@ -54,3 +54,40 @@ This is a formalized BIP for Utreexo nodes
 
 [Mailing list Post](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
 [BIP Link](https://github.com/utreexo/biptreexo)
+
+## Compact Block Reconstruction
+
+Review concerns on compact block reconstruction rates raised by [0xB10C](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052) reviewing the data they have collected from their work monitoring the health of the bitcoin p2p network.
+
+[[Delving] Stats on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
+[Compact Block Reconstruction Walkthrough](https://github.com/xstoicunicornx/bitdevs/tree/master/2408-compact_block_reconstruction_rates)
+
+## Nostr Oracles with CSFS
+
+Demo on Mutiny Signet showing how CSFS would enable being able to trivially use anyone in your Nostr web of trust as an oracle.
+
+[Nostr-based oracle resolution for prediction markets on Bitcoin](https://x.com/dimahledba/status/1946223544234659877)
+
+## Labitbus - JPEGs in the control block
+
+What started as a humble effort to troll those who filter inscriptions has turned into the labitbu craze that you might be trying to ignore on twitter. Labitbu is an jpeg of a 'labubu' that gets stored in the taproot control block - which means it doesn't get filtered by the existing inscription filters employed by node implementations like Knots. While it isn't technically an inscription, it does follow ordinal theory in the same way inscriptions do.
+
+While currently only labitbu's are using this method of storing arbitrary data, any arbitrary data use case can employ this method, though it must be less than 4kb in size. It will be interesting to see if Knots can find a heuristic to use to identify and filter these (but I don't think they can without false positives).
+
+(also sorry you're wayyy to late to mint a Labitbu of your own)
+
+[labitbu craze is getting out of hand](https://x.com/mononautical/status/1951683985957851367)
+[Awesome Labitbu Resources](https://github.com/rot13maxi/awesome-labitbu)
+[Thoughts from "founder" stutxo](https://x.com/stutxo/status/1952220689127121230)
+
+## Improve TxOrphanage DOS Bounds PR Merged
+
+An overhaul to the Bitcoin Core tx orphanage infrastructure was merged and will be included in v30. This update was significant as it enforced stricter DOS bounds by peer, so that a malicious peer can no longer churn a node's orphanage and force out orphans received from an honest peer. Since the DOS bounds are now explicitly defined, this update also safely expands the tx orphanage from 100 txs to up to 3000 txs (with caveats).
+
+[[PR #31829] p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
+
+## Lowering Min Relay Fee PR Opened
+
+Bitcoin Core has opened a PR to lower the default values for `minrelaytxfee`, as well as `incrementalrelayfee` and `blockminttxfee`.
+
+[[PR #33106] policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee](https://github.com/bitcoin/bitcoin/pull/33106)
