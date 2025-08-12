@@ -60,7 +60,7 @@ This is a formalized BIP for Utreexo nodes
 Review concerns on compact block reconstruction rates raised by [0xB10C](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052) reviewing the data they have collected from their work monitoring the health of the bitcoin p2p network.
 
 [[Delving] Stats on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)  
-[Compact Block Reconstruction Walkthrough](https://github.com/xstoicunicornx/bitdevs/tree/master/2408-compact_block_reconstruction_rates)
+[Compact Block Reconstruction Walkthrough](https://github.com/xstoicunicornx/bitdevs/tree/master/2508-compact_block_reconstruction_rates)
 
 ## Nostr Oracles with CSFS
 
