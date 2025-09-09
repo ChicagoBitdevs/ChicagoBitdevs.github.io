@@ -17,3 +17,7 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
 # Publish all posts even if the date is in the future
 future: true
+
+# Include .well-known directory
+include:
+ - .well-known
