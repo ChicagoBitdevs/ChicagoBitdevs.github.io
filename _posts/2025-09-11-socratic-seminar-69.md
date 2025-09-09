@@ -88,3 +88,10 @@ Utreexo BIP drafts published by @kcalvinalvinn, co-authored by @tdryja and David
 - BIP drafts: https://github.com/bitcoin/bips/pull/1923
 - Mail list post: https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E
 - Utreexo is a proposed alternative to the UTXO set; more info at https://bitcoinops.org/en/topics/utreexo/
+
+## NPM Malicious Package Incident
+
+https://x.com/P3b7_/status/1965094840959410230
+https://x.com/P3b7_/status/1965336272550899932
+
+$66 stolen in widespread supply chain attack; the developer of a dozen high-impact javascript packages was phished and these packages turned malicious. The NPM security team cleaned up quick and internet-citizen reporting was early and widespread, minimizing impact.  
