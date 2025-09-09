@@ -23,7 +23,7 @@ For the release notes please see the git repository:
 
 https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-29.1.md
 
-## Bitcoin Knots 29.0 Release
+## Bitcoin Knots 29.1 Release
 
 Bitcoin Knots version 29.1.knots20250903 is now available from:
 
