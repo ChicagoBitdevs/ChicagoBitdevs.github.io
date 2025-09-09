@@ -35,8 +35,7 @@ https://github.com/bitcoinknots/bitcoin/releases/tag/v29.1.knots20250903
 
 https://github.com/TABConf/bitcoinknobs
 
-Bitcoin Knobs is a fork of Bitcoin Knots that takes flexibility a step further. Where others decide what is "safe" or "reasonable," we believe in maximum choice. If that means your node refuses to start, your wallet vanishes into the void, or your peers pretend you don't exist, at least the decision was yours.
-ody sane would touch. Some people call that dangerous. We call it feature-complete.
+Bitcoin Knobs is a fork of Bitcoin Knots that takes flexibility a step further. Where others decide what is "safe" or "reasonable," we believe in maximum choice. If that means your node refuses to start, your wallet vanishes into the void, or your peers pretend you don't exist, at least the decision was yours. Because freedom means being able to tune every setting, even the ones nobody sane would touch. Some people call that dangerous. We call it feature-complete.
 
 ## Nunchuk releases Miniscript + E2EE group wallets
 
