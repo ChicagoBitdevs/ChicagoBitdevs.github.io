@@ -1,0 +1,8 @@
+{
+  "names": {
+    "_": "338d64ebe4066a3ba49dc3b158a6fce7b4a2a3cca56d9023c8c5027b262cb37d"
+  },
+  "relays": {
+    "338d64ebe4066a3ba49dc3b158a6fce7b4a2a3cca56d9023c8c5027b262cb37d": ["wss://nos.lol", "wss://relay.damus.io", "wss://nostr.wine", "wss://nostr.land", "wss://relay.npub.bar"]
+  }
+}
