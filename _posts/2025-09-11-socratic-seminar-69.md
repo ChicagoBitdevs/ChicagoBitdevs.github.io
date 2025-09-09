@@ -92,5 +92,6 @@ Utreexo BIP drafts published by @kcalvinalvinn, co-authored by @tdryja and David
 
 https://x.com/P3b7_/status/1965094840959410230
 https://x.com/P3b7_/status/1965336272550899932
+https://intel.arkm.com/explorer/entity/290c0a74-7647-4ec1-8302-9b6846a8c2b1
 
-$66 stolen in widespread supply chain attack. The developer of a dozen high-impact javascript packages was phished and these packages turned malicious. The NPM security team cleaned up quick and internet-citizen reporting was early and widespread, minimizing impact.  
+~$1000 stolen in widespread supply chain attack. The developer of a dozen high-impact javascript packages was phished and these packages turned malicious. The NPM security team cleaned up quick and internet-citizen reporting was early and widespread, minimizing impact.  
