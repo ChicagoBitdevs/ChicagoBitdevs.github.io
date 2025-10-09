@@ -92,3 +92,16 @@ https://bitcoinops.org/en/topics/silent-payments/
 ### Address reuse
 ### Tor
 https://www.torproject.org/
+
+
+# Last Minite Add Ons
+
+### Square Bitcoin Payments
+<https://squareup.com/us/en/bitcoin>
+
+### WoS and Spark Privacy Concerns
+<https://x.com/theinstagibbs/status/1975942930532549059>
+<https://x.com/theinstagibbs/status/1975944960160465405>
+
+### Open Source Secure Element TROPIC01 in PROD
+<https://x.com/bitdov/status/1976031712258949553>
