@@ -13,4 +13,13 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
-# add post here
+# BIP 444
+
+## [Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
+This BIP written by Dathon Ohm introduces a temporary softfork to limit the size
+of data fields at the consensus level.
+Inspired by Luke-JS's [mailing list post](https://gnusha.org/pi/bitcoindev/aN_u-xB2ogn2D834@erisian.com.au/T/#mb71350c5dfb119efeb92c5ee738b6c8225bf15b6)
+
+## [BIP444-Airdrop](https://github.com/mikekelly/BIP444-Airdrop)
+Mike Kelly posted a writeup on a theoretical farmable fork mechanism
+if BIP 444 should be activated.
