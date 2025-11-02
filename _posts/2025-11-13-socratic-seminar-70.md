@@ -24,11 +24,13 @@ Inspired by Luke-JS's [mailing list post](https://gnusha.org/pi/bitcoindev/aN_u-
 Mike Kelly posted a writeup on a theoretical farmable fork mechanism
 if BIP 444 should be activated.
 
-## Pheonix wallet adds taproot channel support
-https://x.com/PhoenixWallet/status/1983524047712391445
+## [Comparing libsecp256k1 to OpenSSL over the decade](https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087)
+Sebastian Falbesoner posted to Delving Bitcoin about the 10 year anniversary of Bitcoin Core
+switching from OpenSSL to libsecp256k1 and comparing the performace of each over the years
 
-## Comparing libsecp256k1 to OpenSSL over the decade
-https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087
+## [OP_CIV](https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I)
+Tadge Dryja posted to the mailing list about an idea for post quantum
+signature aggregation
 
-## OP_CIV
-https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I
+## [Pheonix wallet adds taproot channel support](https://x.com/PhoenixWallet/status/1983524047712391445)
+Pheonix wallet announced that they are adding taproot channel support!
