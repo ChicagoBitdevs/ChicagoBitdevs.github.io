@@ -23,3 +23,12 @@ Inspired by Luke-JS's [mailing list post](https://gnusha.org/pi/bitcoindev/aN_u-
 ## [BIP444-Airdrop](https://github.com/mikekelly/BIP444-Airdrop)
 Mike Kelly posted a writeup on a theoretical farmable fork mechanism
 if BIP 444 should be activated.
+
+## Pheonix wallet adds taproot channel support
+https://x.com/PhoenixWallet/status/1983524047712391445
+
+## Comparing libsecp256k1 to OpenSSL over the decade
+https://delvingbitcoin.org/t/comparing-the-performance-of-ecdsa-signature-validation-in-openssl-vs-libsecp256k1-over-the-last-decade/2087
+
+## OP_CIV
+https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I
