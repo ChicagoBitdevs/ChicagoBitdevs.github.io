@@ -62,3 +62,14 @@ A new proposal called Chain Code Delegation aims to remove that tradeoff.
 
 <https://bitkey.build/chain-code-delegation-improving-privacy-in-collaborative-multisig/>  
 <https://github.com/bitcoin/bips/pull/2004>
+
+## Save Our Wallets Campaign
+Protect your right to transact freely. Support Section 109 of the CLARITY Act to ensure wallet freedom and protect developer rights.
+
+<https://saveourwallets.org/>
+<https://www.loom.com/share/778ef0ad831d4be6bcddf663189567f5>
+
+## Square Bitcoin Payments
+Bitcoin payments are now live!
+
+<https://x.com/Square/status/1987886908480033186>
