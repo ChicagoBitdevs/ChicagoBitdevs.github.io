@@ -24,65 +24,65 @@ This document proposes a new output type: Pay-to-Tapscript-Hash (P2TSH), via a s
 Through this modification, P2TSH outputs allow developers to use tapscript in a manner that is:
 
 - resistant to long exposure attacks by Cryptographically Relevant Quantum Computers (CRQCs), and
-- resistant to future cryptanalytic approaches that may compromise the elliptic curve cryptography (ECC) used by Bitcoin.
+- resistant to future cryptanalytic approaches that may compromise the elliptic curve cryptography (ECC) used by Bitcoin.  
 
 <https://github.com/bitcoin/bips/pull/1670>
 
 ## BIP 353 - Human Bitcoin Addresses
 
-Human Bitcoin Addresses (HBAs) bring the familiar, intuitive payment experiences of apps like Cash App, Venmo, and PayPal to bitcoin. Instead of dealing with long, intimidating wallet addresses, HBAs make sending bitcoin as simple as sending an email.
+Human Bitcoin Addresses (HBAs) bring the familiar, intuitive payment experiences of apps like Cash App, Venmo, and PayPal to bitcoin. Instead of dealing with long, intimidating wallet addresses, HBAs make sending bitcoin as simple as sending an email.  
 
 <https://spiralbtc.substack.com/p/making-bitcoin-speak-human>
 <https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki>
 
 ## Cluster Mempool Merged
 
-Here is a summary of the mempool policy changes:
+Here is a summary of the mempool policy changes:  
 
-- Enforce two new limits governing the size of clusters in the mempool, so that both the number of transactions in a cluster and the number of vbytes the transactions in the cluster take up are bounded.
+- Enforce two new limits governing the size of clusters in the mempool, the number of transactions and the number of vbytes.
 - Drop the existing ancestor and descendant limits.
-- Update the replace-by-fee rules, so that replacement transactions are accepted to the mempool if and only if they would result in a “strictly better feerate diagram” (explained below).
+- Update the replace-by-fee rules, so that replacement transactions are accepted to the mempool if and only if they would result in a “strictly better feerate diagram” (explained below).  
 
-By bounding cluster sizes, we are able to achieve more optimal orderings of transactions in the mempool for mining leading to two additional behaviors that would be modified by this proposal:
+By bounding cluster sizes, we are able to achieve more optimal orderings of transactions in the mempool for mining leading to two additional behaviors that would be modified by this proposal:  
 
-- Update the mining code to take advantage of the more optimal sorting that can be achieved with bounded cluster sizes, and
-- Update mempool eviction to always evict a set of transactions that would be the last ones to be selected by the mining algorithm.
+- Update the mining code to take advantage of the more optimal sorting
+- Update mempool eviction to always evict the last transactions to be selected by the mining algorithm.  
 
-<https://github.com/bitcoin/bitcoin/pull/33629>
-twitter thread overview - <https://x.com/murchandamus/status/1854678133896626293>
-delving overview - <https://delvingbitcoin.org/t/an-overview-of-the-cluster-mempool-proposal/393>
+<https://github.com/bitcoin/bitcoin/pull/33629>  
+twitter thread overview - <https://x.com/murchandamus/status/1854678133896626293>  
+delving overview - <https://delvingbitcoin.org/t/an-overview-of-the-cluster-mempool-proposal/393>  
 
 ## Venezuela... Secret Bitcoin Superpower?
 
-Alex Saab may control $60 billion in Bitcoin for the Maduro regime. As Trump's naval blockade tightens, the real battle is being fought on the blockchain.
+Alex Saab may control $60 billion in Bitcoin for the Maduro regime. As Trump's naval blockade tightens, the real battle is being fought on the blockchain.  
 
 <https://whalehunting.projectbrazen.com/the-60-billion-question-is-venezuela-secretly-a-bitcoin-superpower/>
 
 ## Yushan: Frostsnap BTC++ Workshop
 
-Distributed Key Generation & Threshold Signing Coordination
+Distributed Key Generation & Threshold Signing Coordination  
 
 <https://yushan.frostsnap.com/>
 
 ## Digital Panopticon News
 
-### Australia Search Engine Age Checks
+#### Australia Search Engine Age Checks
 
 <https://piunikaweb.com/2025/12/29/australia-search-age-checks-rolling-out/>
 
-### Berlin Police Law
+#### Berlin Police Law
 
-Berlin just legalized:
+Berlin just legalized:  
 
 - Secret police break-ins to plant spyware
 - State trojans for hacking phones and cracking encrypted chats
 - Mass location tracking and facial recognition
 
-Berlin has enacted a new police law granting authorities extensive surveillance powers, including the right to secretly enter homes and hack phones.
+Berlin has enacted a new police law granting authorities extensive surveillance powers, including the right to secretly enter homes and hack phones.  
 
 <https://www.heise.de/news/Berlin-Polizei-darf-Wohnungen-zur-Staatstrojaner-Installation-heimlich-betreten-11103253.html>
 
-### EU Parlament Passes Non-Binding Resolution for Age Limits on Social Media
+#### EU Parlament Passes Non-Binding Resolution for Age Limits on Social Media
 
 <https://kathmandupost.com/world/2025/11/26/eu-parliament-pushes-for-age-limits-on-social-media-to-safeguard-minors>
 
