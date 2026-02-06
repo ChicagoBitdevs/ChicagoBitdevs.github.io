@@ -11,6 +11,8 @@ Please join us for our next Socratic Seminar! A special thanks to Strike for the
 
 Doors open at 6pm with discussion starting shortly after!
 
+Also a special announcement regarding Chicagos first bitcoin hub, featuring the Chicago Bitcoin Collective coworking space and Fork & Coin restaurant.
+
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
 ## A Mathematical Theory of Payment Channel Networks
@@ -40,6 +42,10 @@ This includes minor security improvements, a new test framework, and some build 
 <https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201>
 
 
-## Zcash Plunges Double Digits After ECC Team ‘Constructively Discharged’
+## Redwallet: Drivechain enabled wallet
 
-<https://decrypt.co/353948/zcash-plunges-double-digits-after-ecc-team-constructively-discharged>
+<https://github.com/LayerTwo-Labs/BlueWallet/tree/2025-12-03-redwallet>
+
+## Chain Code Delegation
+
+<https://github.com/bitcoin/bips/blob/master/bip-0089.mediawiki>
