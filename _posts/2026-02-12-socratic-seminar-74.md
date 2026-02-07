@@ -49,3 +49,10 @@ This includes minor security improvements, a new test framework, and some build 
 ## Chain Code Delegation
 
 <https://github.com/bitcoin/bips/blob/master/bip-0089.mediawiki>
+
+## Bip 110
+
+BIP 110 reaches 5.9% of nodes signaling according to the following link
+<https://thebitcoinportal.com/nodes/bip110>
+
+<https://github.com/dathonohm/bips/blob/reduced-data/bip-0110.mediawiki>
