@@ -11,8 +11,6 @@ Please join us for our next Socratic Seminar! A special thanks to Strike for the
 
 Doors open at 6pm with discussion starting shortly after!
 
-Also a special announcement regarding Chicagos first bitcoin hub, featuring the Chicago Bitcoin Collective coworking space and Fork & Coin restaurant.
-
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
 ## Chicago Bitcoin Collective
@@ -29,7 +27,7 @@ A purpose-driven space where long-term Bitcoin thinkers collaborate, learn, and 
 
 <https://delvingbitcoin.org/t/argo-a-garbled-circuits-scheme-for-1000x-more-efficient-off-chain-computation/2210>
 
-## Gloria Zhao steps down as maintainer and seddited added as maintainer
+## Gloria Zhao steps down as maintainer and sedited added as maintainer
 
 Gloria's PR
 <https://github.com/bitcoin/bitcoin/pull/34517>
@@ -40,7 +38,9 @@ Sedited/TheCharlatan's PR
 ## libsecp256k1 0.7.1 released
 
 A minor release of the libsecp256k1 library has been released.
+
 This includes minor security improvements, a new test framework, and some build system changes.
+
 <https://groups.google.com/g/bitcoindev/c/3mk8kdx-hjc>
 
 ## Hornet UTXO(1): A custom, constant-time, highly parallel UTXO database
