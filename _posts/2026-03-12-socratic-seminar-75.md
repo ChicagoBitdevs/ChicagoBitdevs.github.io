@@ -13,6 +13,8 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
+[Chicago Bitcoin Collective Open House](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/313736007/?utm_medium=referral&utm_campaign=announce_event&utm_source=link&utm_version=v2&member_id=223046969)
+
 ## Illinois Senate Bill 3977 Children's Social Media Safety Act
 
 An “Age Verification for all Operating Systems” (including Windows, macOS, & Linux) bill has been introduced in the state of Illinois.  
