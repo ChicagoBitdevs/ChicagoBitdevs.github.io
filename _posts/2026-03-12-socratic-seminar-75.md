@@ -13,6 +13,12 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
+## Illinois Senate Bill 3977 Children's Social Media Safety Act
+
+An “Age Verification for all Operating Systems” (including Windows, macOS, & Linux) bill has been introduced in the state of Illinois.  
+
+<https://www.ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=3977&DocTypeID=SB&LegId=167475&SessionID=114>
+
 ## Cake Wallet adds Lightning Support
 
 Today we launched Lightning to over a million users, bringing my journey full circle from hater to builder. Spark + Breez made a Lightning user experience possible that feels like magic compared to 2019, and yet one that doesn't require us to force our users into custodial solutions.  
