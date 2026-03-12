@@ -71,6 +71,13 @@ We've past feature freeze for Bitcoin Core v31, which should be released in earl
 
 <https://x.com/fanquake/status/2026006073686016084>
 
+## [BIP Draft] 24 bits for nVersion nonce space instead of 16
+
+Matt Corallo posted to the Bitcoin-Dev mailing list a draft BIP to increase the number of bits available in nVersion’s nonce space for miners from 16 to 24. This will enable more possible block candidates for header-only mining without relying on rolling nTime more often than once per second and would supersede BIP320.
+
+<https://bitcoinops.org/en/newsletters/2026/03/06/#draft-bip-for-expanded-nversion-nonce-space-for-miners>
+<https://groups.google.com/g/bitcoindev/c/fCfbi8hy-AE>
+
 ## Numo Brings Bitcoin Tap-to-Pay
 
 Numo is Bitcoin's first tap to pay solution. Works with any Bitcoin Lightning wallet. Tap-to-pay available for ecash wallets.
