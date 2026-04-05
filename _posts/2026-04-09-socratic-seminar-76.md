@@ -78,20 +78,20 @@ Purify is a provably secure, circuit-friendly pseudorandom function
 (PRF) [3, 1]: the design pushes the expensive message hashing outside the arithmetic circuit
 while keeping the in-circuit work close to low-degree field arithmetic.
 
-https://judica.org/purify/
+<https://judica.org/purify/>
 
 ## Square starts to auto enables Bitcoin on POS machines
 
 This month Square started to auto enable Bitcoin on all POS machines
 
-https://x.com/milessuter/status/2038620026115145857
+<https://x.com/milessuter/status/2038620026115145857>
 
 ## How wallet fingerprints damage Payjoin privacy
 
 Armin Sabouri take a look at the different payjoin implementations and how fingerprinting those wallets can damage payjoin privacy.
 
-https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354
+<https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354>
 
 ## Austin Bitdevs shutting down
 
-https://x.com/benthecarman/status/2039040709143969851
+<https://x.com/benthecarman/status/2039040709143969851>
