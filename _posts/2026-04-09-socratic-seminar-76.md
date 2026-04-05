@@ -13,7 +13,10 @@ Doors open at 6pm with discussion starting shortly after!
 
 [Follow ChiBitDevs on twitter](https://x.com/chibitdevs)
 
-## Chicago Bitcoin Collective Co-working Space Live!
+## Chicago Bitcoin Collective Co-working/Club Space Live!
+
+The Chicago Bitcoin Collective Co-Working Space is now open for members to come.
+There is also a list of events for this month!
 
 <https://www.chicagobitcoincollective.com/>
 
@@ -66,3 +69,25 @@ The open protocol for machine-to-machine payments. Charge for API requests, tool
 
 <https://x.com/tempo/status/2034253707303338264>  
 <https://mpp.dev/>
+
+## Judica Purify
+
+Jeremy Rubin and Judica announces a white paper and reference library for Purify  
+
+Purify is a provably secure, circuit-friendly pseudorandom function
+(PRF) [3, 1]: the design pushes the expensive message hashing outside the arithmetic circuit
+while keeping the in-circuit work close to low-degree field arithmetic.
+
+https://judica.org/purify/
+
+## Square starts to auto enables Bitcoin on POS machines
+
+This month Square started to auto enable Bitcoin on all POS machines
+
+https://x.com/milessuter/status/2038620026115145857
+
+## How wallet fingerprints damage Payjoin privacy
+
+Armin Sabouri take a look at the different payjoin implementations and how fingerprinting those wallets can damage payjoin privacy.
+
+https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354
