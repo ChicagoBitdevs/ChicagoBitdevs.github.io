@@ -90,9 +90,16 @@ This month Square started to auto enable Bitcoin on all POS machines
 
 Armin Sabouri take a look at the different payjoin implementations and how fingerprinting those wallets can damage payjoin privacy.
 
+<https://payjoin.org/blog/2026/03/25/wallet-fingerprints-payjoin-privacy>  
+
 ## Austin Bitdevs shutting down
 
 <https://x.com/benthecarman/status/2039040709143969851>
+
+## Iran Hormuz transit toll paid in crypto
+
+<https://breakingthenews.net/Article/Iran-to-charge-ships-for-Hormuz-transit/66029688>  
+<https://x.com/BitMEXResearch/status/2041861151424675952>  
 
 ## Digital Panopticon News
 
