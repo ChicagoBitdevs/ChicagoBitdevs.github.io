@@ -22,11 +22,11 @@ Doors open at 6pm with discussion starting shortly after!
 
 <https://www.chicagobitcoincollective.com/>
 
-## CVE-2024-52911
+## Bitcoin Core CVE-2024-52911 - Script Interpreter Remote Crash
 
 Cory Fields (MIT DCI) reported an issue which after Bitcoin Core v0.14.0 and before v29.0 a user/miner could create a specially crafted block to cause nodes to access previously freed memory. An attacker with sufficent proof of work could have exploited this attack to crash victim nodes. 
 
-<https://groups.google.com/g/bitcoindev/c/e1UEdViSYkU>  
+<https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/>  
 
 ## The Bitcoin Lost and Found
 
@@ -50,13 +50,13 @@ Some notable features
 - Mining IPC interface updated/breaking changes.
 - Bitcoin Core 28.x and older are now EOL.
 
-<https://groups.google.com/g/bitcoindev/c/suU6e-eMo44>
+<https://bitcoincore.org/en/releases/31.0/>
 
-## [BIP Draft] Dust UTXO Disposal Protocol
+## BIP 451 - Dust UTXO Disposal Protocol
 
 Everyone hates dust, personally I've tried brooming, mopping and even a roomba. Nontheless there is still dust in my home. Bubbles proposes a mechanism to safely remove dust outputs from your wallets.
 
-<https://groups.google.com/g/bitcoindev/c/pr1z3_j8vTc>
+<https://github.com/bitcoin/bips/blob/master/bip-0451.md>
 
 ## Fingerprinting nodes: Possible Solutions
 
@@ -76,8 +76,41 @@ Last month there was a hack on Bisq for 11 Bitcoin
 
 <https://primal.net/e/nevent1qqszejcm7c4mw8p6autsgaaf38jc2q63kzlx5e2nva3lf84647nejxcsu8aj8>
 
-## Paul Sztorc plans on hard forking Bitcoin
+## Paul Sztorc plans on creating Drivechains Bitcoin Hard Fork
 
-Paul plans on creating a new hard fork of Bitcoin named e-cash
+Paul plans on creating a new hard fork of Bitcoin named e-cash in August 2026
 
-<https://x.com/truthcoin/status/2047639261453680838?s=46>
+<https://x.com/truthcoin/status/2047639261453680838?s=46>  
+<https://ecash.com/>
+
+## ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group
+
+Stratum v2 Working Group announces new cohort of members, including ANTPOOL, Foundry, and others.
+
+<https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group>
+
+## Coinbase Announces Layoffs citing AI
+
+<https://x.com/brian_armstrong/status/2051616759145185723>
+
+## Bitcoin Knots v29.3.knots20260504rc2 applies the BIP110 Reduced Data Temporary Softfork
+
+<https://github.com/bitcoinknots/bitcoin/pull/238>  
+<https://github.com/bitcoinknots/bitcoin/releases>
+
+## Project Eleven Awards (Fraudulant) Q-day Prize
+
+Project Eleven Awards 1 BTC Q-Day Prize for Largest Quantum Attack on Elliptic Curve Cryptography to Date, however it wasn't actually a quantum attack has very suspect circumstances.
+
+<https://x.com/projecteleven/status/2047661990605156796>  
+<https://x.com/yuvadm/status/2047708266205995269>  
+<https://x.com/_jonasschnelli_/status/2047765986443706547>  
+<https://x.com/SilkForgeAi/status/2047744229540069603>  
+
+## Digital Panopticon News
+
+#### Utah first state to hold websites liable for users who mask their location with VPNs
+
+Senate Bill 73 - which holds websites liable for users who mask their location - goes into effect, designed to prevent bypassing age checks
+
+<https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law>
