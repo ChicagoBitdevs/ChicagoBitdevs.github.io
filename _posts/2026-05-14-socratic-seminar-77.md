@@ -69,3 +69,15 @@ Earlier naiyoma and danielabrozzoni posted to Delving about fingerprinting nodes
 You might have heard about Lighting, Lightening, Lightning Channel jamming, what you might not know is that there is another networking layer ontop of the lightning network which is the onion messaging network. Currently there is no standard way to handle jamming attacks on that network and this post approaches that.
 
 <https://delvingbitcoin.org/t/onion-message-jamming-in-the-lightning-network/2414>
+
+## Bisq hack
+
+Last month there was a hack on Bisq for 11 Bitcoin
+
+<https://primal.net/e/nevent1qqszejcm7c4mw8p6autsgaaf38jc2q63kzlx5e2nva3lf84647nejxcsu8aj8>
+
+## Paul Sztorc plans on hard forking Bitcoin
+
+Paul plans on creating a new hard fork of Bitcoin named e-cash
+
+<https://x.com/truthcoin/status/2047639261453680838?s=46>
