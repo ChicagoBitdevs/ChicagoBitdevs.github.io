@@ -76,11 +76,11 @@ Last month there was a hack on Bisq for 11 Bitcoin
 
 <https://primal.net/e/nevent1qqszejcm7c4mw8p6autsgaaf38jc2q63kzlx5e2nva3lf84647nejxcsu8aj8>
 
-## Paul Sztorc plans creating Drivechains Bitcoin Hard Fork
+## Paul Sztorc plans on creating Drivechains Bitcoin Hard Fork
 
 Paul plans on creating a new hard fork of Bitcoin named e-cash in August 2026
 
-<https://x.com/truthcoin/status/2047639261453680838?s=46>
+<https://x.com/truthcoin/status/2047639261453680838?s=46>  
 <https://ecash.com/>
 
 ## ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group
@@ -95,17 +95,17 @@ Stratum v2 Working Group announces new cohort of members, including ANTPOOL, Fou
 
 ## Bitcoin Knots v29.3.knots20260504rc2 applies the BIP110 Reduced Data Temporary Softfork
 
-<https://github.com/bitcoinknots/bitcoin/pull/238>
+<https://github.com/bitcoinknots/bitcoin/pull/238>  
 <https://github.com/bitcoinknots/bitcoin/releases>
 
 ## Project Eleven Awards (Fraudulant) Q-day Prize
 
 Project Eleven Awards 1 BTC Q-Day Prize for Largest Quantum Attack on Elliptic Curve Cryptography to Date, however it wasn't actually a quantum attack has very suspect circumstances.
 
-<https://x.com/projecteleven/status/2047661990605156796>
-<https://x.com/yuvadm/status/2047708266205995269>
-<https://x.com/_jonasschnelli_/status/2047765986443706547>
-<https://x.com/SilkForgeAi/status/2047744229540069603>
+<https://x.com/projecteleven/status/2047661990605156796>  
+<https://x.com/yuvadm/status/2047708266205995269>  
+<https://x.com/_jonasschnelli_/status/2047765986443706547>  
+<https://x.com/SilkForgeAi/status/2047744229540069603>  
 
 ## Digital Panopticon News
 
