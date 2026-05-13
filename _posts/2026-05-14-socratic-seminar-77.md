@@ -19,6 +19,9 @@ Doors open at 6pm with discussion starting shortly after!
 - May 19th Tasting Table w/ chef Foise @The Chopping Block
 - May 21st B.O.B. Social (A focus on Bitcoin Basics)
 - May 28th Bitdevs 77.5 @CBC
+- June 2nd Coffee Meetup @F&C
+- June 11th Bitdevs @Strike
+- June 12th Omakase @F&C $85
 
 <https://www.chicagobitcoincollective.com/>
 
