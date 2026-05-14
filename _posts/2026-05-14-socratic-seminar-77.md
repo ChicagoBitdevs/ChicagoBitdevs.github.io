@@ -20,6 +20,7 @@ Doors open at 6pm with discussion starting shortly after!
 - [May 21st  6 PM  B.O.B. Social (A focus on Bitcoin Basics)](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/314352881)
 - May 28th  6 PM  Bitdevs 77.5 @CBC
 - June 2nd  8 AM  Coffee Meetup @F&C
+- [June 7th  3 PM  Speaker Hodl House @F&C](https://www.hodl-house.com/)
 - [June 11th 6 PM  Bitdevs @Strike](https://www.meetup.com/chibitdevs/events/jqtzltyjcjbpb)
 - [June 12th 6 PM Izakaya @F&C $85](https://pay.zaprite.com/pl_GtXUdzwYB0)
 
