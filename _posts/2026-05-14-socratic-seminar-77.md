@@ -55,6 +55,10 @@ Some notable features
 
 <https://bitcoincore.org/en/releases/31.0/>
 
+## PSBTv2
+
+<https://github.com/bitcoin/bitcoin/pull/21283>
+
 ## BIP 451 - Dust UTXO Disposal Protocol
 
 Everyone hates dust, personally I've tried brooming, mopping and even a roomba. Nontheless there is still dust in my home. Bubbles proposes a mechanism to safely remove dust outputs from your wallets.
@@ -109,6 +113,14 @@ Project Eleven Awards 1 BTC Q-Day Prize for Largest Quantum Attack on Elliptic C
 <https://x.com/yuvadm/status/2047708266205995269>  
 <https://x.com/_jonasschnelli_/status/2047765986443706547>  
 <https://x.com/SilkForgeAi/status/2047744229540069603>  
+
+## Rusty's note 
+
+<https://njump.me/nevent1qqsgxucdkyu8zu9ntgl4gpvxcfesx8pua56ahmf2d5qrwcgwnjtlx3gzyrchy4vx5spvq6hvsxx3g79yt24qmstv02wys6we0s6sxdk3d78yx5hspxf>
+
+## Guy recovers 5 btc with claude
+
+<https://x.com/BitcoinArchive/status/2054648910186979717>
 
 ## Digital Panopticon News
 
