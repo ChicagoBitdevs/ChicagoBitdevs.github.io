@@ -39,7 +39,7 @@ This proposal defines a new tapscript opcode, OP_TWEAKADD, that takes an x-only 
 
 ## Nostr Silent Wallet
 
-Tim Bouma implemented on-chain zaps using silent payments (some related [privacy concerns](https://dergigi.com/2026/05/20/careful-icarus/) that still somewhat apply).
+Tim Bouma implemented on-chain zaps using silent payments (some related [privacy concerns](https://dergigi.com/2026/05/20/careful-icarus/) that still apply and some fun technical drama over original [on-chain zap PR](https://github.com/nostr-protocol/nips/pull/2332)).  
 <https://primal.net/e/nevent1qqsv3gja8vy964r08vhvmmlr2jj3sx06h75szddzknjgjc9qmhdalpct2pq5c>  
 <https://primal.net/e/nevent1qqs9g38wpxsxj25axpgqevd8xkf4mnmkx5w5ftjvuh8rr5kas9r62csa48x96>
 
