@@ -37,6 +37,12 @@ Formosa builds upon BIP-0039 by organizing mnemonic words into themed sentences 
 This proposal defines a new tapscript opcode, OP_TWEAKADD, that takes an x-only public key and a 32-byte integer t on the stack and pushes the x-only public key corresponding to P + t*G, where P is the lifted point for the input x-coordinate and G is the secp256k1 generator. The operation mirrors the Taproot tweak used by BIP340 signers and enables simple, verifiable key modifications inside script without revealing private keys or relying on hash locks.
 <https://github.com/bitcoin/bips/blob/master/bip-0449.md>  
 
+## Nostr Silent Wallet
+
+Tim Bouma implemented on-chain zaps using silent payments (some related [privacy concerns](https://dergigi.com/2026/05/20/careful-icarus/) that still somewhat apply).
+<https://primal.net/e/nevent1qqsv3gja8vy964r08vhvmmlr2jj3sx06h75szddzknjgjc9qmhdalpct2pq5c>  
+<https://primal.net/e/nevent1qqs9g38wpxsxj25axpgqevd8xkf4mnmkx5w5ftjvuh8rr5kas9r62csa48x96>
+
 ## CUBE: Bitcoin smart contracts built on Ark
 
 Cube is a virtual machine designed to enable trusless smart contract execution natively on Bitcoin. Providing a fully trustless execution environment with unilateral exit, Cube ensures users retain complete control over their funds.
