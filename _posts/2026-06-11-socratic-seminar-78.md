@@ -17,6 +17,12 @@ Doors open at 6pm with discussion starting shortly after!
 
 <https://www.chicagobitcoincollective.com/>
 
+## Illinois’ Digital Asset Trading Tax Proposal
+
+The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0.2% tax on crypto transactions on a registered broker.
+<https://news.bloombergtax.com/daily-tax-report-state/crypto-groups-blast-illinois-digital-asset-trading-tax-proposal-5>  
+<https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law>  
+
 ## A Post-Quantum Path for BIP 324
 
 Bitcoin mailing list post about making BIP 324, the peer to peer encryption BIP for Bitcoin, post quantum secure.
@@ -70,6 +76,15 @@ MKPool
 
 ## Potential Alternative to BIP 54 (**DRAMA**)
 <https://x.com/JeremyRubin/status/2057948104960233561>  
+
+## Clink Protocol
+
+CLINK (Common Lightning Interface for Nostr Keys) defines Nostr-native standards for Lightning Network interactions, leveraging the protocol's built-in transport, identity, and encryption. This enables secure communication between Lightning nodes, wallets, and applications without traditional web infrastructure dependencies, while remaining web-friendly and facilitating self-custody.
+<https://clinkme.dev/>
+
+## Botanix L2 Shuts Down
+
+<https://x.com/botanix/status/2064420116578590941>
 
 ## Digital Panopticon News
 ### UK Government Moves to Mandate Digital ID on Every Smartphone
