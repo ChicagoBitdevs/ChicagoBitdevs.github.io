@@ -60,6 +60,12 @@ Key feature of Electrum Protocol 1.7 would allow wallets to rescan for addresses
 <https://x.com/Erik17192799/status/2059694531293958486>  
 <https://github.com/spesmilo/electrum-protocol/pull/2>  
 
+## Second Live on Mainnet
+
+Bark, our implementation of the Ark protocol, is available for anyone to start making bitcoin payments. Included in the launch are our mainnet Ark server, the Bark SDK, and multiple wallets to try from day one.
+<https://x.com/secondhq/status/2064346112203395400>  
+<https://x.com/secondhq/status/2064838873587261569>  
+
 ## Nimdolf: Non-interactive Mint Delegation on Liveness Failure
 
 This proposal improves liveness guarantees for custodial ecash mints with on-chain reserves. It allows a mint operator to delegate control of mint reserves to third-party mint operators in a non-interactive way.
