@@ -42,7 +42,7 @@ This post describes the async payments protocol, which LDK implements to allow a
 
 Monetization Gateway will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol.
 
-<https://blog.cloudflare.com/monetization-gateway/?utm_campaign=cf_blog&utm_content=20260701&utm_medium=organic_social&utm_source=twitter>  
+<https://blog.cloudflare.com/monetization-gateway/>  
 
 ## Secp256k1 Maintainer Steps Down
 
