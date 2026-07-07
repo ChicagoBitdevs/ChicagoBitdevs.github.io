@@ -17,6 +17,12 @@ Doors open at 6pm with discussion starting shortly after!
 
 <https://www.chicagobitcoincollective.com/>  
 
+## Bitcoin Core version 31.1rc1
+
+Bitcoin Core version 31.1 release candidate 1 released.
+
+<https://github.com/bitcoin/bitcoin/blob/v31.1rc1/doc/release-notes.md>  
+
 ## Mined in America Act
 
 The Mined in America Act would distort the overall economic incentives of the Bitcoin network and capture U.S. based miners in a situation where dependence on associated loan or grant programs makes it economically non-viable for them to deny government demands. 
