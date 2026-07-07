@@ -38,6 +38,12 @@ This post describes the async payments protocol, which LDK implements to allow a
 
 <https://x.com/StratumV2/status/2070131857459429484>  
 
+## Cloudflare Monetization Gateway
+
+Monetization Gateway will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol.
+
+<https://blog.cloudflare.com/monetization-gateway/?utm_campaign=cf_blog&utm_content=20260701&utm_medium=organic_social&utm_source=twitter>  
+
 ## Secp256k1 Maintainer Steps Down
 
 7+ year Secp256k1 maintainer Jonas Nick steps down.
