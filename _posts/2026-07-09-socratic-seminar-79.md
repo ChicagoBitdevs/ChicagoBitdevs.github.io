@@ -23,6 +23,21 @@ Bitcoin Core version 31.1 release candidate 1 released.
 
 <https://github.com/bitcoin/bitcoin/blob/v31.1rc1/doc/release-notes.md>  
 
+## Libevent dependency removed from Bitcoin Core
+
+Libevent was a dependency of Bitcoin Core that handled any http requests. This dependency was unmaintained and Core had concerns on keeping it as a dependency
+
+<https://x.com/btcinsider__/status/2069877030410203317>
+
+## Sipa removing himself as DNS seed and removing himself from list of security contacts
+
+<https://github.com/bitcoin/bitcoin/pull/35695>
+<https://github.com/bitcoin/bitcoin/pull/35691>
+
+## AI contribution policy added to Bitcoin Core
+
+<https://github.com/bitcoin/bitcoin/pull/35386>
+
 ## Mined in America Act
 
 The Mined in America Act would distort the overall economic incentives of the Bitcoin network and capture U.S. based miners in a situation where dependence on associated loan or grant programs makes it economically non-viable for them to deny government demands. 
