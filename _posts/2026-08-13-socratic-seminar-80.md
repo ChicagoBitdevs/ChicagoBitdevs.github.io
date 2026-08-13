@@ -19,6 +19,8 @@ Doors open at 6pm with discussion starting shortly after!
 
 ## Coldcard low entropy bug
 
+<https://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/>
+
 ### Explainers
 - Summary of impact <https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/>
 - What is entropy <https://x.com/Leishman/status/2083280967439884696>  
