@@ -98,6 +98,12 @@ A threshold custody Lightning Network channel.
 
 <https://x.com/BitMEX/status/2080201602456301580>  
 
+## Libsecp256k1 formal verification update
+<https://x.com/remix7531/status/2097687625553363307/>
+
+## Analysis on lattice based signatures from Blockstream Research
+<https://x.com/Blockstream/status/2092664581789270185/>
+
 ## Digital Panopticon News
 ### Dark Web Selling 153M+ American's Drivers Licenses
 <https://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/>  
@@ -109,8 +115,3 @@ A threshold custody Lightning Network channel.
 ### Flock goes much further than tracking license plates
 <https://www.wired.com/story/flock-safety-os-investigate/>  
 
-### Libsecp256k1 formal verification update
-<https://x.com/remix7531/status/2097687625553363307/>
-
-### Analysis on lattice based signatures from Blockstream Research
-https://x.com/Blockstream/status/2092664581789270185
