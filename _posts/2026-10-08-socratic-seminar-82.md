@@ -17,7 +17,7 @@ Doors open at 6pm with discussion starting shortly after!
 
 [October 2026 events from Chicago Bitcoin Collective](https://x.com/ChiBTCollective/status/2105680875073482779)
 
-![October 2026 CBC and Fork & Coin events](/assets/images/2026-10-cbc-events.jpg)
+![October 2026 CBC and Fork & Coin events](/assets/images/2026-10-cbc-events.jpg){:style="max-width: 480px; width: 100%; height: auto;"}
 
 - Oct 6th  8 AM  Bitcoin and Coffee @ Fork & Coin (3938 N Central Ave)
 - Oct 8th  6 PM  BitDevs at Strike (200 N LaSalle St) — this meetup
