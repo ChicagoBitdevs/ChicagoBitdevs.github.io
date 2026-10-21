@@ -119,3 +119,13 @@ Showcase of more streamlined OCEAN mining lightning payouts.
 ### Spain Orders Blocks On Archive Today And Its Mirrors
 
 <https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors>  
+
+## The Internet goes on high alert after discovery of 8 compromised TLS certs
+
+<https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/>  
+
+## Ledger hardware wallet supply chain attack
+
+Galaxy Research estimates roughly $91 million stolen from 474 victim addresses through tampered Ledger devices sold via a reseller.
+
+<https://www.galaxy.com/insights/research/ledger-cryptobilis-wallet-implant-theft>  
