@@ -129,3 +129,10 @@ Showcase of more streamlined OCEAN mining lightning payouts.
 Galaxy Research estimates roughly $91 million stolen from 474 victim addresses through tampered Ledger devices sold via a reseller.
 
 <https://www.galaxy.com/insights/research/ledger-cryptobilis-wallet-implant-theft>  
+
+## Class action lawsuit filed against Coinkite
+
+A class action lawsuit has been filed against Coinkite in an Ontario court.
+
+<https://x.com/AtlasPhoenixBTC/status/2113013307577889270>  
+<https://courts.ontario.ca/portal/court/68f021c4-6a44-4735-9a76-5360b2e8af13/case/69d7faae-6bfd-4056-95be-f2c5cf5e5fe3>  
