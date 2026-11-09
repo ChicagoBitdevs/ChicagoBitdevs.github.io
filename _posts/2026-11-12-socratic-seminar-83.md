@@ -44,3 +44,10 @@ BTCPay Server 2.4.7 is an emergency security release fixing one critical and sev
 
 <https://x.com/BtcpayServer/status/2115835402536079674>  
 <https://github.com/btcpayserver/btcpayserver/releases/tag/v2.4.7>  
+
+## LNbits operators told to shut down after attacks
+
+On Nov 8, 2026, LNbits told all operators to shut down their LNbits servers immediately after a wave of attacks. One instance reportedly lost about 2.28M sats. Patches were expected within 24 to 48 hours. This is an LNbits software issue, not a Bitcoin or Lightning protocol bug. No GitHub security advisory had been published yet.
+
+<https://x.com/lnbits/status/2119428804951048237>  
+<https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html>  
