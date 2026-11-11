@@ -134,8 +134,15 @@ Proposal to add an address indexer to Bitcoin Core. It takes about 62 GB of disk
 ## Hardware Wallet Data Leaks and Phishing Attacks
 
 <https://x.com/KeystoneWallet/status/2114719318722404578>  
+<https://www.cryptopolitan.com/keystone-nexus-app-cyberattack/>  
+
 <https://x.com/FoundationHQ/status/2114743519852069110>  
 <https://x.com/zherbert/status/2114758469912031703>  
+
+## Chainalysis says breach exposed credentials for all customers
+
+<https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/>  
+<https://www.disruptionbanking.com/2026/11/06/nubank-pauses-crypto-withdrawals-and-deposits-points-to-external-verification-provider/>  
 
 ## The Long Road to Bitcoin Payments
 
@@ -145,8 +152,10 @@ Why bitcoin payments haven’t taken off, and a call for moonshot ideas that cou
 
 ## Digital Panopticon News
 ### Smart TVs Always Listening
-
 <https://x.com/0x0SojalSec/status/2113208608980898022>   
 
 ### Ofcom outlines age check methods ahead of social media ban for under-16s
 <https://www.bbc.com/news/articles/c6ly3027820lo>  
+
+### Paraguay seizes major digital bank leaving millions of customers in limbo
+<https://apnews.com/article/paraguay-ueno-digital-bank-seizure-santiago-pena-9d7521ddee45a185d2618c7e09a243a3>  
