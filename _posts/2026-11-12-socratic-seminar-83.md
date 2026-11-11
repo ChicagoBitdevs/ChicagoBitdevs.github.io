@@ -51,3 +51,9 @@ On Nov 8, 2026, LNbits told all operators to shut down their LNbits servers imme
 
 <https://x.com/lnbits/status/2119428804951048237>  
 <https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html>  
+
+## Block template creation halted by TRUC sibling eviction (CVE-2025-62861)
+
+During a reorg, TRUC sibling eviction could still run while transactions were re-added to the mempool, leaving it inconsistent so block template creation fails until the node is restarted. It is considered High severity, affects Bitcoin Core 28.0 to 28.2 and 29.0 to 29.1, and was fixed in 28.3, 29.2, and 30.0.
+
+<https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/>  
