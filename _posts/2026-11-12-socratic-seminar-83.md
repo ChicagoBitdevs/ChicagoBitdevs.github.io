@@ -79,6 +79,7 @@ During a reorg, TRUC sibling eviction could still run while transactions were re
 
 <https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/>  
 <https://emudhra.we-have-a-problem.com/>  
+<https://x.com/iangcarroll/status/2120277247550718249>  
 
 ## Ledger hardware wallet supply chain attack
 
